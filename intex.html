@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache">
+<title>İddaa Analiz Botu 26/27</title>
+
+<style>
+*{box-sizing:border-box}
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f1f3f6;
+color:#17202a
+}
+
+header{
+background:#111827;
+color:#fff;
+padding:18px 12px;
+text-align:center
+}
+
+header h1{
+margin:0;
+font-size:22px
+}
+
+header p{
+margin:6px 0 0;
+color:#cbd5e1;
+font-size:13px
+}
+
+.panel{
+background:#fff;
+margin:10px;
+padding:10px;
+border-radius:12px;
+box-shadow:0 2px 8px #0001
+}
+
+button,select,input{
+width:100%;
+padding:12px;
+margin:4px 0;
+border:1px solid #d1d5db;
+border-radius:8px;
+background:#fff;
+font-size:15px
+}
+
+.row{
+display:flex;
+gap:6px
+}
+
+.row button{
+width:50%
+}
+
+#status{
+margin:10px;
+padding:12px;
+text-align:center;
+font-weight:bold;
+background:#fff;
+border-radius:10px
+}
+
+.match{
+background:#fff;
+margin:10px;
+padding:14px;
+border-radius:12px;
+box-shadow:0 2px 8px #0001
+}
+
+.league{
+color:#2563eb;
+font-size:13px;
+font-weight:bold;
+margin-bottom:8px
+}
+
+.teams{
+font-size:17px;
+font-weight:bold;
+line-height:1.5
+}
+
+.info{
+color:#64748b;
+font-size:12px;
+margin-top:8px
+}
+
+.analysis{
+margin-top:10px;
+padding:12px;
+background:#f8fafc;
+border-radius:8px;
+font-size:13px;
+line-height:1.7
+}
+
+.market{
+margin-top:8px;
+padding:9px;
+background:#fff;
+border:1px solid #e5e7eb;
+border-radius:8px
+}
+
+.market-title{
+font-weight:bold;
+margin-bottom:5px
+}
+
+.odds{
+display:flex;
+gap:5px;
+flex-wrap:wrap
+}
+
+.odd{
+background:#eef2ff;
+padding:7px 9px;
+border-radius:7px;
+font-weight:bold
+}
+
+.prob{
+color:#475569;
+font-size:12px;
+margin-top:3px
+}
+
+.summary{
+margin-top:10px;
+padding:10px;
+background:#ecfdf5;
+border-radius:8px;
+font-weight:bold
+}
+
+.warning{
+margin-top:8px;
+padding:8px;
+background:#fff7ed;
+border-radius:7px;
+font-size:12px;
+color:#9a3412
+}
+
+.empty{
+text-align:center;
+padding:25px;
+color:#64748b
+}
+
+.small{
+font-size:12px;
+font-weight:normal
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>⚽ İddaa Analiz Botu 26/27</h1>
+<p>Maçkolik • İddaa oranları • Otomatik istatistiksel analiz</p>
+</header>
+
+<div class="panel">
+
+<div class="row">
+<button onclick="changeDay(-1)">⬅ Önceki</button>
+<button onclick="changeDay(1)">Sonraki ➡</button>
+</div>
+
+<input
+id="search"
+type="text"
+placeholder="🔎 Takım ara..."
+oninput="render()"
+>
+
+<select id="league" onchange="render()">
+<option value="">Tüm Ligler</option>
+</select>
+
+<button onclick="loadData()">🔄 Maçları Yenile</button>
+
+</div>
+
+<div id="status">⏳ Veriler hazırlanıyor...</div>
+
+<div id="matches"></div>
+
+<script>
+
+var selectedDate = new Date();
+
+var allMatches = [];
+var competitions = {};
+var allOdds = {};
+
+function pad(n){
+if(n < 10){
+return "0" + n;
+}
+return String(n);
+}
+
+function dateString(d){
+return d.getFullYear() + "-" +
+pad(d.getMonth()+1) + "-" +
+pad(d.getDate());
+}
+
+function setStatus(text){
+document.getElementById("status").innerHTML = text;
+}
+
+function escapeHtml(text){
+
+if(text === null || text === undefined){
+return "";
+}
+
+return String(text)
+.replace(/&/g,"&amp;")
+.replace(/</g,"&lt;")
+.replace(/>/g,"&gt;")
+.replace(/"/g,"&quot;")
+.replace(/'/g,"&#039;");
+}
+
+function getTeamName(team){
+
+if(!team){
+return "";
+}
+
+if(typeof team === "string"){
+return team;
+}
+
+if(team.name){
+return team.name;
+}
+
+if(team.teamName){
+return team.teamName;
+}
+
+if(team.displayName){
+return team.displayName;
+}
+
+return "";
+}
+
+function getHome(match){
+
+if(match.homeTeam){
+return getTeamName(match.homeTeam);
+}
+
+if(match.home){
+return getTeamName(match.home);
+}
+
+return "Ev Sahibi";
+}
+
+function getAway(match){
+
+if(match.awayTeam){
+return getTeamName(match.awayTeam);
+}
+
+if(match.away){
+return getTeamName(match.away);
+}
+
+return "Deplasman";
+}
+
+function getLeague(match){
+
+var id = match.competitionId;
+
+if(id && competitions && competitions[id]){
+
+var c = competitions[id];
+
+if(c.name){
+return c.name;
+}
+
+if(c.competitionName){
+return c.competitionName;
+}
+
+if(c.title){
+return c.title;
+}
+
+}
+
+if(match.competitionName){
+return match.competitionName;
+}
+
+return "Diğer";
+}
+
+function getTime(match){
+
+if(match.mstUtc){
+
+var d = new Date(match.mstUtc);
+
+if(!isNaN(d.getTime())){
+
+return pad(d.getHours()) +
+":" +
+pad(d.getMinutes());
+
+}
+
+}
+
+if(match.matchTime){
+return match.matchTime;
+}
+
+if(match.time){
+return match.time;
+}
+
+return "--:--";
+}
+
+function getScore(match){
+
+if(
+match.homeScore !== undefined &&
+match.awayScore !== undefined
+){
+
+return String(match.homeScore) +
+" - " +
+String(match.awayScore);
+
+}
+
+if(match.score){
+
+if(typeof match.score === "object"){
+
+var h = null;
+var a = null;
+
+if(match.score.home !== undefined){
+h = match.score.home;
+}
+else if(match.score.homeScore !== undefined){
+h = match.score.homeScore;
+}
+
+if(match.score.away !== undefined){
+a = match.score.away;
+}
+else if(match.score.awayScore !== undefined){
+a = match.score.awayScore;
+}
+
+if(h !== null && a !== null){
+
+return String(h) +
+" - " +
+String(a);
+
+}
+
+}
+
+}
+
+return "";
+}
+
+/* LİGLER */
+
+function prepareLeagues(){
+
+var select =
+document.getElementById("league");
+
+select.innerHTML =
+'<option value="">Tüm Ligler</option>';
+
+var list = {};
+
+var i;
+
+for(i=0;i<allMatches.length;i++){
+
+var league =
+getLeague(allMatches[i]);
+
+if(league){
+list[league] = true;
+}
+
+}
+
+var names = [];
+var key;
+
+for(key in list){
+
+if(list.hasOwnProperty(key)){
+names.push(key);
+}
+
+}
+
+names.sort();
+
+for(i=0;i<names.length;i++){
+
+var option =
+document.createElement("option");
+
+option.value = names[i];
+option.textContent = names[i];
+
+select.appendChild(option);
+
+}
+
+}
+
+/* ORAN VERİSİ */
+
+function getOdds(match){
+
+if(!match || !match.id){
+return null;
+}
+
+if(allOdds && allOdds[match.id]){
+return allOdds[match.id];
+}
+
+return null;
+}
+
+/* TEKRAR EDEN ORANLARI TEMİZLE */
+
+function uniqueOptions(list){
+
+var result = [];
+var seen = {};
+
+if(!list){
+return result;
+}
+
+for(var i=0;i<list.length;i++){
+
+var item = list[i];
+
+if(!item){
+continue;
+}
+
+var secenek =
+item.secenek;
+
+var oran =
+parseFloat(
+String(item.oran)
+.replace(",",".")
+);
+
+if(!secenek){
+continue;
+}
+
+if(isNaN(oran)){
+continue;
+}
+
+var key =
+secenek + "|" + oran;
+
+if(seen[key]){
+continue;
+}
+
+seen[key] = true;
+
+result.push({
+secenek:secenek,
+oran:oran
+});
+
+}
+
+return result;
+}
+
+/* MARKET BUL */
+
+function findMarket(odds, names){
+
+if(!odds){
+return null;
+}
+
+for(var i=0;i<names.length;i++){
+
+if(odds[names[i]]){
+return odds[names[i]];
+}
+
+}
+
+/* MBS numarası değişirse başlangıç kısmından bul */
+
+var key;
+
+for(key in odds){
+
+if(!odds.hasOwnProperty(key)){
+continue;
+}
+
+for(var j=0;j<names.length;j++){
+
+if(
+key.indexOf(names[j]) === 0
+){
+
+return odds[key];
+
+}
+
+}
+
+}
+
+return null;
+}
+
+/* OLASILIK */
+
+function probability(list){
+
+var valid = [];
+
+for(var i=0;i<list.length;i++){
+
+if(list[i].oran > 1){
+valid.push(list[i]);
+}
+
+}
+
+if(valid.length === 0){
+return [];
+}
+
+var total = 0;
+
+for(i=0;i<valid.length;i++){
+
+total +=
+1 / valid[i].oran;
+
+}
+
+var result = [];
+
+for(i=0;i<valid.length;i++){
+
+var p =
+(1 / valid[i].oran) /
+total *
+100;
+
+result.push({
+secenek:valid[i].secenek,
+oran:valid[i].oran,
+p:p
+});
+
+}
+
+return result;
+}
+
+/* MARKET HTML */
+
+function marketHtml(title,list){
+
+var clean =
+uniqueOptions(list);
+
+if(clean.length === 0){
+return "";
+}
+
+var probs =
+probability(clean);
+
+var html =
+"<div class='market'>";
+
+html +=
+"<div class='market-title'>" +
+escapeHtml(title) +
+"</div>";
+
+html +=
+"<div class='odds'>";
+
+for(var i=0;i<probs.length;i++){
+
+html +=
+"<div class='odd'>" +
+escapeHtml(probs[i].secenek) +
+" " +
+probs[i].oran.toFixed(2) +
+"<div class='prob'>" +
+probs[i].p.toFixed(1) +
+"% piyasa olasılığı</div>" +
+"</div>";
+
+}
+
+html += "</div></div>";
+
+return html;
+}
+
+/* ANALİZ */
+
+function makeAnalysis(match){
+
+var odds =
+getOdds(match);
+
+var score =
+getScore(match);
+
+var html =
+"<b>📊 Otomatik Analiz</b>";
+
+if(!odds){
+
+html +=
+"<div class='warning'>" +
+"⚠️ Bu maç için İddaa oran verisi bulunamadı." +
+"</div>";
+
+if(score){
+
+html +=
+"<br>⚽ Skor: " +
+escapeHtml(score);
+
+}
+
+return html;
+}
+
+/* MAÇ SONUCU */
+
+var resultMarket =
+findMarket(
+odds,
+["Maç Sonucu"]
