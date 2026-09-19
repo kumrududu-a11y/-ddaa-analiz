@@ -1,0 +1,259 @@
+name: Mackolik Mac ve Oran Verileri
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+jobs:
+  maclari-getir:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python paketlerini kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 cloudscraper
+
+      - name: Mac ve oran verilerini cek
+        run: |
+          mkdir -p data
+
+          cat > cek.py <<'PY'
+          import os
+          import re
+          import json
+          import time
+          import unicodedata
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+
+          import cloudscraper
+          from bs4 import BeautifulSoup
+
+          BASE = "https://www.mackolik.com"
+
+          scraper = cloudscraper.create_scraper(
+              browser={
+                  "browser": "chrome",
+                  "platform": "linux",
+                  "mobile": False
+              }
+          )
+
+          scraper.headers.update({
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36",
+              "Accept-Language": "tr-TR,tr;q=0.9,en;q=0.8"
+          })
+
+          def slugify(text):
+              text = str(text).strip().lower()
+
+              replacements = {
+                  "ı": "i",
+                  "İ": "i",
+                  "ş": "s",
+                  "Ş": "s",
+                  "ğ": "g",
+                  "Ğ": "g",
+                  "ü": "u",
+                  "Ü": "u",
+                  "ö": "o",
+                  "Ö": "o",
+                  "ç": "c",
+                  "Ç": "c"
+              }
+
+              for a, b in replacements.items():
+                  text = text.replace(a, b)
+
+              text = unicodedata.normalize("NFKD", text)
+              text = text.encode("ascii", "ignore").decode("ascii")
+              text = re.sub(r"[^a-z0-9]+", "-", text)
+              return text.strip("-")
+
+          def maclari_getir(tarih):
+              url = BASE + "/perform/p0/ajax/components/competition/livescores/json"
+
+              params = {
+                  "sports[]": "Soccer",
+                  "matchDate": tarih
+              }
+
+              r = scraper.get(url, params=params, timeout=30)
+              r.raise_for_status()
+
+              return r.json()
+
+          def oranlari_getir(match):
+              match_id = match.get("id")
+
+              if not match_id:
+                  return match_id, {}
+
+              name = match.get("matchName", "")
+
+              parts = re.split(r"\s+vs\s+", name, flags=re.I)
+
+              if len(parts) != 2:
+                  return match_id, {}
+
+              home = slugify(parts[0])
+              away = slugify(parts[1])
+
+              url = f"{BASE}/mac/{home}-vs-{away}/iddaa/{match_id}"
+
+              try:
+                  r = scraper.get(url, timeout=25)
+
+                  if r.status_code != 200:
+                      return match_id, {}
+
+                  soup = BeautifulSoup(r.text, "html.parser")
+
+                  ul = soup.find(
+                      "ul",
+                      class_="widget-iddaa-markets__markets-list"
+                  )
+
+                  if not ul:
+                      return match_id, {}
+
+                  result = {}
+
+                  h2_tags = ul.find_all("h2")
+
+                  div_tags = ul.find_all(
+                      "div",
+                      class_="widget-base__content widget-iddaa-markets__market-content"
+                  )
+
+                  for index, div in enumerate(div_tags):
+                      if index >= len(h2_tags):
+                          continue
+
+                      title = h2_tags[index].get_text(
+                          " ",
+                          strip=True
+                      )
+
+                      values = []
+
+                      for li in div.find_all("li"):
+                          spans = li.find_all("span")
+
+                          texts = [
+                              s.get_text(" ", strip=True)
+                              for s in spans
+                          ]
+
+                          for i in range(0, len(texts) - 1, 2):
+                              key = texts[i]
+                              value = texts[i + 1]
+
+                              if key and value:
+                                  values.append({
+                                      "secenek": key,
+                                      "oran": value
+                                  })
+
+                      if values:
+                          result[title] = values
+
+                  return match_id, result
+
+              except Exception as e:
+                  print("Oran hatasi:", match_id, str(e))
+                  return match_id, {}
+
+          def process_date(tarih):
+              print("Tarih:", tarih)
+
+              try:
+                  data = maclari_getir(tarih)
+              except Exception as e:
+                  print("Mac verisi alinamadi:", e)
+                  return
+
+              matches = data.get("data", {}).get("matches", {})
+
+              print("Mac sayisi:", len(matches))
+
+              odds = {}
+
+              match_list = []
+
+              for match_id, match in matches.items():
+                  if not match:
+                      continue
+
+                  if not match.get("iddaaCode"):
+                      continue
+
+                  match_list.append(match)
+
+              print("Iddaa maci:", len(match_list))
+
+              with ThreadPoolExecutor(max_workers=8) as executor:
+
+                  futures = [
+                      executor.submit(oranlari_getir, match)
+                      for match in match_list
+                  ]
+
+                  for future in as_completed(futures):
+                      match_id, result = future.result()
+
+                      if result:
+                          odds[match_id] = result
+
+              output = {
+                  "date": tarih,
+                  "odds": odds
+              }
+
+              with open(
+                  f"data/oranlar-{tarih}.json",
+                  "w",
+                  encoding="utf-8"
+              ) as f:
+                  json.dump(
+                      output,
+                      f,
+                      ensure_ascii=False,
+                      indent=2
+                  )
+
+              print(
+                  "Orani bulunan mac:",
+                  len(odds)
+              )
+
+          if __name__ == "__main__":
+              import datetime
+
+              today = datetime.datetime.utcnow().date()
+
+              for i in range(8):
+                  tarih = today + datetime.timedelta(days=i)
+                  process_date(tarih.isoformat())
+          PY
+
+          python cek.py
+
+      - name: Degisiklikleri kaydet
+        run: |
+          git config user.name "iddaa-analiz-bot"
+          git config user.email "actions@github.com"
+
+          git add data/
+
+          git diff --cached --quiet || \
+          git commit -m "Mackolik mac ve oran verilerini guncelle"
+
+          git push
