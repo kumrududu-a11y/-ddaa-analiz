@@ -1,1152 +1,6 @@
 {
   "date": "2026-09-26",
   "odds": {
-    "z9n3jsyplrk1hzwg379me0wk": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "17.70"
-        },
-        {
-          "secenek": "X",
-          "oran": "9.43"
-        },
-        {
-          "secenek": "2",
-          "oran": "-"
-        },
-        {
-          "secenek": "1",
-          "oran": "17.70"
-        },
-        {
-          "secenek": "X",
-          "oran": "9.43"
-        },
-        {
-          "secenek": "2",
-          "oran": "-"
-        }
-      ],
-      "Çifte Şans MBS 1": [
-        {
-          "secenek": "1-X",
-          "oran": "6.33"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "-"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "-"
-        },
-        {
-          "secenek": "1-X",
-          "oran": "6.33"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "-"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "-"
-        }
-      ],
-      "4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.09"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.80"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.09"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.80"
-        }
-      ],
-      "1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "4.79"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "4.79"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        }
-      ],
-      "3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.40"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.15"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.40"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.15"
-        }
-      ],
-      "5,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "7.60"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "7.60"
-        }
-      ],
-      "2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.40"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.58"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.40"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.58"
-        }
-      ],
-      "1. Yarı 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.25"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.70"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.25"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.70"
-        }
-      ],
-      "1. Yarı 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "3.81"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.31"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "3.81"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.31"
-        }
-      ],
-      "1. Yarı 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.69"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.18"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.69"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.18"
-        }
-      ],
-      "1. Yarı Çifte Şans MBS 1": [
-        {
-          "secenek": "1-X",
-          "oran": "2.76"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "-"
-        },
-        {
-          "secenek": "1-X",
-          "oran": "2.76"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "-"
-        }
-      ],
-      "1. Yarı Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "20.60"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.05"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.25"
-        },
-        {
-          "secenek": "1",
-          "oran": "20.60"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.05"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.25"
-        }
-      ],
-      "2. Yarı Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "19.20"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.56"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.18"
-        },
-        {
-          "secenek": "1",
-          "oran": "19.20"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.56"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.18"
-        }
-      ],
-      "Tek/Çift MBS 1": [
-        {
-          "secenek": "Tek",
-          "oran": "1.89"
-        },
-        {
-          "secenek": "Çift",
-          "oran": "1.91"
-        },
-        {
-          "secenek": "Tek",
-          "oran": "1.89"
-        },
-        {
-          "secenek": "Çift",
-          "oran": "1.91"
-        }
-      ],
-      "Toplam Gol Aralığı MBS 1": [
-        {
-          "secenek": "0-1",
-          "oran": "4.60"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "1.91"
-        },
-        {
-          "secenek": "4-5",
-          "oran": "2.82"
-        },
-        {
-          "secenek": "6+",
-          "oran": "7.83"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "4.60"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "1.91"
-        },
-        {
-          "secenek": "4-5",
-          "oran": "2.82"
-        },
-        {
-          "secenek": "6+",
-          "oran": "7.83"
-        }
-      ],
-      "Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "3.39"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Var",
-          "oran": "3.39"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "1.36"
-        }
-      ],
-      "İlk Yarı/Maç Sonucu MBS 1": [
-        {
-          "secenek": "1/1",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/1",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2/1",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "1/X",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/X",
-          "oran": "11.35"
-        },
-        {
-          "secenek": "2/X",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "1/2",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/2",
-          "oran": "3.76"
-        },
-        {
-          "secenek": "2/2",
-          "oran": "1.40"
-        },
-        {
-          "secenek": "1/1",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "1/X",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "1/2",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/1",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/X",
-          "oran": "11.35"
-        },
-        {
-          "secenek": "X/2",
-          "oran": "3.76"
-        },
-        {
-          "secenek": "2/1",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2/X",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2/2",
-          "oran": "1.40"
-        }
-      ],
-      "Hnd. MS (2:0) MBS 1": [
-        {
-          "secenek": "+2h",
-          "oran": "2.71"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.46"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.73"
-        },
-        {
-          "secenek": "+2h",
-          "oran": "2.71"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.46"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.73"
-        }
-      ],
-      "Hnd. MS (1:0) MBS 1": [
-        {
-          "secenek": "+1h",
-          "oran": "7.03"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.30"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.38"
-        },
-        {
-          "secenek": "+1h",
-          "oran": "7.03"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.30"
-        },
-        {
-          "secenek": "2",
-          "oran": "1.38"
-        }
-      ],
-      "Hnd. MS (3:0) MBS 1": [
-        {
-          "secenek": "+3h",
-          "oran": "1.57"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.89"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.95"
-        },
-        {
-          "secenek": "+3h",
-          "oran": "1.57"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.89"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.95"
-        }
-      ],
-      "Maç Skoru MBS 1": [
-        {
-          "secenek": "0-0",
-          "oran": "16.60"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "5.91"
-        },
-        {
-          "secenek": "0-2",
-          "oran": "4.29"
-        },
-        {
-          "secenek": "0-3",
-          "oran": "4.51"
-        },
-        {
-          "secenek": "0-4",
-          "oran": "6.18"
-        },
-        {
-          "secenek": "0-5",
-          "oran": "10.55"
-        },
-        {
-          "secenek": "1-0",
-          "oran": "48.20"
-        },
-        {
-          "secenek": "1-1",
-          "oran": "19.20"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "12.25"
-        },
-        {
-          "secenek": "1-3",
-          "oran": "12.95"
-        },
-        {
-          "secenek": "1-4",
-          "oran": "18.00"
-        },
-        {
-          "secenek": "1-5",
-          "oran": "31.20"
-        },
-        {
-          "secenek": "2-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "2-1",
-          "oran": "105.20"
-        },
-        {
-          "secenek": "2-2",
-          "oran": "81.20"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "77.20"
-        },
-        {
-          "secenek": "2-4",
-          "oran": "110.20"
-        },
-        {
-          "secenek": "0-6",
-          "oran": "21.85"
-        },
-        {
-          "secenek": "3-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "3-1",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "3-2",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "3-3",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "4-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "4-1",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "4-2",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "5-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "5-1",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "6-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "Diğer",
-          "oran": "15.85"
-        },
-        {
-          "secenek": "1-0",
-          "oran": "48.20"
-        },
-        {
-          "secenek": "2-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "2-1",
-          "oran": "105.20"
-        },
-        {
-          "secenek": "3-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "3-1",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "3-2",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "4-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "4-1",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "4-2",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "5-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "5-1",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "6-0",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "0-0",
-          "oran": "16.60"
-        },
-        {
-          "secenek": "1-1",
-          "oran": "19.20"
-        },
-        {
-          "secenek": "2-2",
-          "oran": "81.20"
-        },
-        {
-          "secenek": "3-3",
-          "oran": "130.20"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "5.91"
-        },
-        {
-          "secenek": "0-2",
-          "oran": "4.29"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "12.25"
-        },
-        {
-          "secenek": "0-3",
-          "oran": "4.51"
-        },
-        {
-          "secenek": "1-3",
-          "oran": "12.95"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "77.20"
-        },
-        {
-          "secenek": "0-4",
-          "oran": "6.18"
-        },
-        {
-          "secenek": "1-4",
-          "oran": "18.00"
-        },
-        {
-          "secenek": "2-4",
-          "oran": "110.20"
-        },
-        {
-          "secenek": "0-5",
-          "oran": "10.55"
-        },
-        {
-          "secenek": "1-5",
-          "oran": "31.20"
-        },
-        {
-          "secenek": "0-6",
-          "oran": "21.85"
-        },
-        {
-          "secenek": "Diğer",
-          "oran": "15.85"
-        }
-      ],
-      "İlk Gol MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "8.23"
-        },
-        {
-          "secenek": "Olmaz",
-          "oran": "19.25"
-        },
-        {
-          "secenek": "2",
-          "oran": "-"
-        },
-        {
-          "secenek": "1",
-          "oran": "8.23"
-        },
-        {
-          "secenek": "Olmaz",
-          "oran": "19.25"
-        }
-      ],
-      "MS ve 4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "32.70"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "9.30"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "1.43"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "3.88"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "32.70"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "9.30"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "1.43"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "3.88"
-        }
-      ],
-      "MS ve 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "18.10"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "6.24"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "16.65"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "1.09"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "18.10"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "6.24"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "16.65"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "1.09"
-        }
-      ],
-      "MS ve 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "10.45"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "2.95"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "1.59"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "10.45"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "2.95"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "1.59"
-        }
-      ],
-      "MS ve 3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "34.20"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "10.50"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "1.83"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "2.34"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "34.20"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "10.50"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "1.83"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "2.34"
-        }
-      ],
-      "1. Yarı Deplasman 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.37"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.22"
-        },
-        {
-          "secenek": "12+",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.37"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.22"
-        }
-      ],
-      "Ev Sahibi 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "14.65"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "14.65"
-        }
-      ],
-      "Ev Sahibi 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.18"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.00"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.18"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.00"
-        }
-      ],
-      "En Çok Gol Olacak Yarı MBS 1": [
-        {
-          "secenek": "1. Yarı",
-          "oran": "2.79"
-        },
-        {
-          "secenek": "Eşit",
-          "oran": "3.80"
-        },
-        {
-          "secenek": "2. Yarı",
-          "oran": "2.15"
-        },
-        {
-          "secenek": "1. Yarı",
-          "oran": "2.79"
-        },
-        {
-          "secenek": "Eşit",
-          "oran": "3.80"
-        },
-        {
-          "secenek": "2. Yarı",
-          "oran": "2.15"
-        }
-      ],
-      "Deplasman 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "3.91"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.30"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "3.91"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.30"
-        }
-      ],
-      "Deplasman 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.06"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.77"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.06"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.77"
-        }
-      ],
-      "Deplasman 3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.26"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.62"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.26"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.62"
-        }
-      ],
-      "1. Yarı Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "7.91"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Var",
-          "oran": "7.91"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        }
-      ],
-      "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.85"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.85"
-        }
-      ],
-      "Deplasman İki Yarıyı da Kazanır MBS 1": [
-        {
-          "secenek": "Evet",
-          "oran": "1.92"
-        },
-        {
-          "secenek": "Hayır",
-          "oran": "1.88"
-        },
-        {
-          "secenek": "Evet",
-          "oran": "1.92"
-        },
-        {
-          "secenek": "Hayır",
-          "oran": "1.88"
-        }
-      ]
-    },
     "6xoieijss6lahcen7v531mp78": {
       "Maç Sonucu MBS 1": [
         {
@@ -1177,45 +31,63 @@
       "Çifte Şans MBS 1": [
         {
           "secenek": "1-X",
-          "oran": "1.37"
+          "oran": "1.57"
         },
         {
           "secenek": "1-2",
-          "oran": "1.19"
+          "oran": "1.39"
         },
         {
           "secenek": "X-2",
-          "oran": "1.28"
+          "oran": "1.48"
         },
         {
           "secenek": "1-X",
-          "oran": "1.37"
+          "oran": "1.57"
         },
         {
           "secenek": "1-2",
-          "oran": "1.19"
+          "oran": "1.39"
         },
         {
           "secenek": "X-2",
-          "oran": "1.28"
+          "oran": "1.48"
         }
       ],
-      "1,5 Alt/Üst MBS 1": [
+      "2,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "3.37"
+          "oran": "1.79"
         },
         {
           "secenek": "Üst",
-          "oran": "1.14"
+          "oran": "1.75"
         },
         {
           "secenek": "Alt",
-          "oran": "3.37"
+          "oran": "1.79"
         },
         {
           "secenek": "Üst",
-          "oran": "1.14"
+          "oran": "1.75"
+        }
+      ],
+      "0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "9.96"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "9.96"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
         }
       ],
       "4,5 Alt/Üst MBS 1": [
@@ -1236,22 +108,22 @@
           "oran": "5.85"
         }
       ],
-      "2,5 Alt/Üst MBS 1": [
+      "1,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "1.99"
+          "oran": "3.57"
         },
         {
           "secenek": "Üst",
-          "oran": "1.95"
+          "oran": "1.34"
         },
         {
           "secenek": "Alt",
-          "oran": "1.99"
+          "oran": "3.57"
         },
         {
           "secenek": "Üst",
-          "oran": "1.95"
+          "oran": "1.34"
         }
       ],
       "3,5 Alt/Üst MBS 1": [
@@ -1272,40 +144,22 @@
           "oran": "3.04"
         }
       ],
-      "0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "9.76"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "9.76"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        }
-      ],
       "1. Yarı 0,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "2.71"
+          "oran": "2.91"
         },
         {
           "secenek": "Üst",
-          "oran": "1.23"
+          "oran": "1.43"
         },
         {
           "secenek": "Alt",
-          "oran": "2.71"
+          "oran": "2.91"
         },
         {
           "secenek": "Üst",
-          "oran": "1.23"
+          "oran": "1.43"
         }
       ],
       "1. Yarı 2,5 Alt/Üst MBS 1": [
@@ -1315,7 +169,7 @@
         },
         {
           "secenek": "Üst",
-          "oran": "6.32"
+          "oran": "6.52"
         },
         {
           "secenek": "Alt",
@@ -1323,51 +177,51 @@
         },
         {
           "secenek": "Üst",
-          "oran": "6.32"
+          "oran": "6.52"
         }
       ],
       "1. Yarı 1,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "1.30"
+          "oran": "1.50"
         },
         {
           "secenek": "Üst",
-          "oran": "2.48"
+          "oran": "2.68"
         },
         {
           "secenek": "Alt",
-          "oran": "1.30"
+          "oran": "1.50"
         },
         {
           "secenek": "Üst",
-          "oran": "2.48"
+          "oran": "2.68"
         }
       ],
       "1. Yarı Çifte Şans MBS 1": [
         {
           "secenek": "1-X",
-          "oran": "1.42"
+          "oran": "1.22"
         },
         {
           "secenek": "1-2",
-          "oran": "1.67"
+          "oran": "1.47"
         },
         {
           "secenek": "X-2",
-          "oran": "1.37"
+          "oran": "1.17"
         },
         {
           "secenek": "1-X",
-          "oran": "1.42"
+          "oran": "1.22"
         },
         {
           "secenek": "1-2",
-          "oran": "1.67"
+          "oran": "1.47"
         },
         {
           "secenek": "X-2",
-          "oran": "1.37"
+          "oran": "1.17"
         }
       ],
       "1. Yarı Sonucu MBS 1": [
@@ -1477,19 +331,19 @@
       "Karşılıklı Gol MBS 1": [
         {
           "secenek": "Var",
-          "oran": "1.59"
+          "oran": "1.79"
         },
         {
           "secenek": "Yok",
-          "oran": "2.01"
+          "oran": "2.21"
         },
         {
           "secenek": "Var",
-          "oran": "1.59"
+          "oran": "1.79"
         },
         {
           "secenek": "Yok",
-          "oran": "2.01"
+          "oran": "2.21"
         }
       ],
       "İlk Yarı/Maç Sonucu MBS 1": [
@@ -1569,53 +423,27 @@
       "Hnd. MS (0:1) MBS 1": [
         {
           "secenek": "1",
-          "oran": "5.36"
+          "oran": "5.16"
         },
         {
           "secenek": "X",
-          "oran": "4.33"
+          "oran": "4.13"
         },
         {
           "secenek": "+1h",
-          "oran": "1.45"
+          "oran": "1.25"
         },
         {
           "secenek": "1",
-          "oran": "5.36"
+          "oran": "5.16"
         },
         {
           "secenek": "X",
-          "oran": "4.33"
+          "oran": "4.13"
         },
         {
           "secenek": "+1h",
-          "oran": "1.45"
-        }
-      ],
-      "Hnd. MS (2:0) MBS 1": [
-        {
-          "secenek": "+2h",
-          "oran": "-"
-        },
-        {
-          "secenek": "X",
-          "oran": "6.43"
-        },
-        {
-          "secenek": "2",
-          "oran": "10.50"
-        },
-        {
-          "secenek": "+2h",
-          "oran": "-"
-        },
-        {
-          "secenek": "X",
-          "oran": "6.43"
-        },
-        {
-          "secenek": "2",
-          "oran": "10.50"
+          "oran": "1.25"
         }
       ],
       "Hnd. MS (1:0) MBS 1": [
@@ -1642,6 +470,32 @@
         {
           "secenek": "2",
           "oran": "4.33"
+        }
+      ],
+      "Hnd. MS (2:0) MBS 1": [
+        {
+          "secenek": "+2h",
+          "oran": "-"
+        },
+        {
+          "secenek": "X",
+          "oran": "6.23"
+        },
+        {
+          "secenek": "2",
+          "oran": "10.30"
+        },
+        {
+          "secenek": "+2h",
+          "oran": "-"
+        },
+        {
+          "secenek": "X",
+          "oran": "6.23"
+        },
+        {
+          "secenek": "2",
+          "oran": "10.30"
         }
       ],
       "Maç Skoru MBS 1": [
@@ -1881,227 +735,227 @@
       "İlk Gol MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.91"
+          "oran": "2.11"
         },
         {
           "secenek": "Olmaz",
-          "oran": "11.30"
+          "oran": "11.50"
         },
         {
           "secenek": "2",
-          "oran": "1.78"
+          "oran": "1.98"
         },
         {
           "secenek": "1",
-          "oran": "1.91"
+          "oran": "2.11"
         },
         {
           "secenek": "Olmaz",
-          "oran": "11.30"
+          "oran": "11.50"
         },
         {
           "secenek": "2",
-          "oran": "1.78"
-        }
-      ],
-      "MS ve 4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.95"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "3.05"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "2.62"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "14.00"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "11.90"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.95"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "3.05"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "2.62"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "14.00"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "11.90"
+          "oran": "1.98"
         }
       ],
       "MS ve 1,5 Alt/Üst MBS 1": [
         {
           "secenek": "1 ve Alt",
-          "oran": "9.84"
+          "oran": "10.04"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "10.95"
+          "oran": "11.15"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "9.10"
+          "oran": "9.30"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "3.24"
+          "oran": "3.44"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "3.91"
+          "oran": "4.11"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "2.81"
+          "oran": "3.01"
         },
         {
           "secenek": "1 ve Alt",
-          "oran": "9.84"
+          "oran": "10.04"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "10.95"
+          "oran": "11.15"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "9.10"
+          "oran": "9.30"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "3.24"
+          "oran": "3.44"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "3.91"
+          "oran": "4.11"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "2.81"
+          "oran": "3.01"
         }
       ],
       "MS ve 2,5 Alt/Üst MBS 1": [
         {
           "secenek": "1 ve Alt",
-          "oran": "5.98"
+          "oran": "6.18"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "3.97"
+          "oran": "4.17"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "5.38"
+          "oran": "5.58"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "4.11"
+          "oran": "4.31"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "10.60"
+          "oran": "10.80"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "3.57"
+          "oran": "3.77"
         },
         {
           "secenek": "1 ve Alt",
-          "oran": "5.98"
+          "oran": "6.18"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "3.97"
+          "oran": "4.17"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "5.38"
+          "oran": "5.58"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "4.11"
+          "oran": "4.31"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "10.60"
+          "oran": "10.80"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "3.57"
+          "oran": "3.77"
         }
       ],
       "MS ve 3,5 Alt/Üst MBS 1": [
         {
           "secenek": "1 ve Alt",
-          "oran": "3.67"
+          "oran": "3.47"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "4.16"
+          "oran": "3.96"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "3.32"
+          "oran": "3.12"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "8.41"
+          "oran": "8.21"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "10.80"
+          "oran": "10.60"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "7.13"
+          "oran": "6.93"
         },
         {
           "secenek": "1 ve Alt",
-          "oran": "3.67"
+          "oran": "3.47"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "4.16"
+          "oran": "3.96"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "3.32"
+          "oran": "3.12"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "8.41"
+          "oran": "8.21"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "10.80"
+          "oran": "10.60"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "7.13"
+          "oran": "6.93"
+        }
+      ],
+      "MS ve 4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "3.15"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "3.25"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "2.82"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "14.20"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "12.10"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "3.15"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "3.25"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "2.82"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "14.20"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "12.10"
         }
       ],
       "Ev Sahibi Gol Yemeden Kazanır MBS 1": [
@@ -2176,24 +1030,6 @@
           "oran": "2.25"
         }
       ],
-      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.70"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.70"
-        }
-      ],
       "Ev Sahibi 0,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
@@ -2212,66 +1048,48 @@
           "oran": "1.37"
         }
       ],
+      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.70"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.70"
+        }
+      ],
       "En Çok Gol Olacak Yarı MBS 1": [
         {
           "secenek": "1. Yarı",
-          "oran": "2.91"
+          "oran": "3.11"
         },
         {
           "secenek": "Eşit",
-          "oran": "3.19"
+          "oran": "3.39"
         },
         {
           "secenek": "2. Yarı",
-          "oran": "1.93"
+          "oran": "2.13"
         },
         {
           "secenek": "1. Yarı",
-          "oran": "2.91"
+          "oran": "3.11"
         },
         {
           "secenek": "Eşit",
-          "oran": "3.19"
+          "oran": "3.39"
         },
         {
           "secenek": "2. Yarı",
-          "oran": "1.93"
-        }
-      ],
-      "Deplasman 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.00"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.00"
-        }
-      ],
-      "Deplasman 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "3.57"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.34"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "3.57"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.34"
+          "oran": "2.13"
         }
       ],
       "Deplasman 1,5 Alt/Üst MBS 1": [
@@ -2292,22 +1110,40 @@
           "oran": "2.27"
         }
       ],
-      "1. Yarı Karşılıklı Gol MBS 1": [
+      "Deplasman 0,5 Alt/Üst MBS 1": [
         {
-          "secenek": "Var",
-          "oran": "3.97"
+          "secenek": "Alt",
+          "oran": "3.57"
         },
         {
-          "secenek": "Yok",
-          "oran": "1.08"
+          "secenek": "Üst",
+          "oran": "1.34"
         },
         {
-          "secenek": "Var",
-          "oran": "3.97"
+          "secenek": "Alt",
+          "oran": "3.57"
         },
         {
-          "secenek": "Yok",
-          "oran": "1.08"
+          "secenek": "Üst",
+          "oran": "1.34"
+        }
+      ],
+      "Deplasman 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.80"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.80"
         }
       ],
       "Ev Sahibi İki Yarıyı da Kazanır MBS 1": [
@@ -2328,1208 +1164,54 @@
           "oran": "-"
         }
       ],
-      "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
+      "1. Yarı Karşılıklı Gol MBS 1": [
         {
-          "secenek": "Alt",
-          "oran": "1.51"
+          "secenek": "Var",
+          "oran": "4.17"
         },
         {
-          "secenek": "Üst",
-          "oran": "1.94"
+          "secenek": "Yok",
+          "oran": "1.28"
         },
         {
-          "secenek": "Alt",
-          "oran": "1.51"
+          "secenek": "Var",
+          "oran": "4.17"
         },
         {
-          "secenek": "Üst",
-          "oran": "1.94"
+          "secenek": "Yok",
+          "oran": "1.28"
         }
       ],
       "Deplasman İki Yarıyı da Kazanır MBS 1": [
         {
           "secenek": "Evet",
-          "oran": "7.83"
+          "oran": "8.03"
         },
         {
-          "secenek": "Hayır",
+          "secenek": "Yok",
           "oran": "-"
         },
         {
           "secenek": "Evet",
-          "oran": "7.83"
-        },
-        {
-          "secenek": "Hayır",
-          "oran": "-"
-        }
-      ]
-    },
-    "12wzj83iaup8xkgt47l42gpas": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.29"
-        },
-        {
-          "secenek": "X",
-          "oran": "5.75"
-        },
-        {
-          "secenek": "2",
-          "oran": "12.00"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.29"
-        },
-        {
-          "secenek": "X",
-          "oran": "5.75"
-        },
-        {
-          "secenek": "2",
-          "oran": "12.00"
-        }
-      ],
-      "Çifte Şans MBS 1": [
-        {
-          "secenek": "1-X",
-          "oran": "-"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "-"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "3.74"
-        },
-        {
-          "secenek": "1-X",
-          "oran": "-"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "-"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "3.74"
-        }
-      ],
-      "2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.84"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.58"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.84"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.58"
-        }
-      ],
-      "1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "3.61"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.11"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "3.61"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.11"
-        }
-      ],
-      "0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "11.60"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "11.60"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        }
-      ],
-      "4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.25"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.25"
-        }
-      ],
-      "3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.25"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.65"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.25"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.65"
-        }
-      ],
-      "1. Yarı 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.82"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.82"
-        }
-      ],
-      "1. Yarı 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "3.28"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.37"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "3.28"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.37"
-        }
-      ],
-      "1. Yarı 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.27"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.27"
-        }
-      ],
-      "1. Yarı Çifte Şans MBS 1": [
-        {
-          "secenek": "1-X",
-          "oran": "-"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.28"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "1.95"
-        },
-        {
-          "secenek": "1-X",
-          "oran": "-"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.28"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "1.95"
-        }
-      ],
-      "1. Yarı Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.68"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.68"
-        },
-        {
-          "secenek": "2",
-          "oran": "10.45"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.68"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.68"
-        },
-        {
-          "secenek": "2",
-          "oran": "10.45"
-        }
-      ],
-      "2. Yarı Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.60"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.04"
-        },
-        {
-          "secenek": "2",
-          "oran": "9.39"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.60"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.04"
-        },
-        {
-          "secenek": "2",
-          "oran": "9.39"
-        }
-      ],
-      "Tek/Çift MBS 1": [
-        {
-          "secenek": "Tek",
-          "oran": "1.70"
-        },
-        {
-          "secenek": "Çift",
-          "oran": "1.71"
-        },
-        {
-          "secenek": "Tek",
-          "oran": "1.70"
-        },
-        {
-          "secenek": "Çift",
-          "oran": "1.71"
-        }
-      ],
-      "Toplam Gol Aralığı MBS 1": [
-        {
-          "secenek": "0-1",
-          "oran": "3.57"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "1.81"
-        },
-        {
-          "secenek": "4-5",
-          "oran": "3.28"
-        },
-        {
-          "secenek": "6+",
-          "oran": "11.70"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "3.57"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "1.81"
-        },
-        {
-          "secenek": "4-5",
-          "oran": "3.28"
-        },
-        {
-          "secenek": "6+",
-          "oran": "11.70"
-        }
-      ],
-      "Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "2.51"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "1.55"
-        },
-        {
-          "secenek": "Var",
-          "oran": "2.51"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "1.55"
-        }
-      ],
-      "İlk Yarı/Maç Sonucu MBS 1": [
-        {
-          "secenek": "1/1",
-          "oran": "1.67"
-        },
-        {
-          "secenek": "X/1",
-          "oran": "3.75"
-        },
-        {
-          "secenek": "2/1",
-          "oran": "27.20"
-        },
-        {
-          "secenek": "1/X",
-          "oran": "26.20"
-        },
-        {
-          "secenek": "X/X",
-          "oran": "7.52"
-        },
-        {
-          "secenek": "2/X",
-          "oran": "31.70"
-        },
-        {
-          "secenek": "1/2",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/2",
-          "oran": "22.95"
-        },
-        {
-          "secenek": "2/2",
-          "oran": "22.50"
-        },
-        {
-          "secenek": "1/1",
-          "oran": "1.67"
-        },
-        {
-          "secenek": "1/X",
-          "oran": "26.20"
-        },
-        {
-          "secenek": "1/2",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/1",
-          "oran": "3.75"
-        },
-        {
-          "secenek": "X/X",
-          "oran": "7.52"
-        },
-        {
-          "secenek": "X/2",
-          "oran": "22.95"
-        },
-        {
-          "secenek": "2/1",
-          "oran": "27.20"
-        },
-        {
-          "secenek": "2/X",
-          "oran": "31.70"
-        },
-        {
-          "secenek": "2/2",
-          "oran": "22.50"
-        }
-      ],
-      "Hnd. MS (0:3) MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "5.30"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.89"
-        },
-        {
-          "secenek": "+3h",
-          "oran": "1.41"
-        },
-        {
-          "secenek": "1",
-          "oran": "5.30"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.89"
-        },
-        {
-          "secenek": "+3h",
-          "oran": "1.41"
-        }
-      ],
-      "Hnd. MS (0:2) MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "2.78"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.64"
-        },
-        {
-          "secenek": "+2h",
-          "oran": "2.00"
-        },
-        {
-          "secenek": "1",
-          "oran": "2.78"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.64"
-        },
-        {
-          "secenek": "+2h",
-          "oran": "2.00"
-        }
-      ],
-      "Hnd. MS (0:1) MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.33"
-        },
-        {
-          "secenek": "+1h",
-          "oran": "3.63"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.33"
-        },
-        {
-          "secenek": "+1h",
-          "oran": "3.63"
-        }
-      ],
-      "Maç Skoru MBS 1": [
-        {
-          "secenek": "0-0",
-          "oran": "11.55"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "21.55"
-        },
-        {
-          "secenek": "0-2",
-          "oran": "81.00"
-        },
-        {
-          "secenek": "0-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-0",
-          "oran": "5.07"
-        },
-        {
-          "secenek": "1-1",
-          "oran": "10.05"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "35.50"
-        },
-        {
-          "secenek": "1-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "2-0",
-          "oran": "4.43"
-        },
-        {
-          "secenek": "2-1",
-          "oran": "8.24"
-        },
-        {
-          "secenek": "2-2",
-          "oran": "33.00"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "2-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-6",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "3-0",
-          "oran": "5.70"
-        },
-        {
-          "secenek": "3-1",
-          "oran": "10.65"
-        },
-        {
-          "secenek": "3-2",
-          "oran": "40.00"
-        },
-        {
-          "secenek": "3-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "4-0",
-          "oran": "9.71"
-        },
-        {
-          "secenek": "4-1",
-          "oran": "18.35"
-        },
-        {
-          "secenek": "4-2",
-          "oran": "69.00"
-        },
-        {
-          "secenek": "5-0",
-          "oran": "20.85"
-        },
-        {
-          "secenek": "5-1",
-          "oran": "39.50"
-        },
-        {
-          "secenek": "6-0",
-          "oran": "54.00"
-        },
-        {
-          "secenek": "Diğer",
-          "oran": "26.00"
-        },
-        {
-          "secenek": "1-0",
-          "oran": "5.07"
-        },
-        {
-          "secenek": "2-0",
-          "oran": "4.43"
-        },
-        {
-          "secenek": "2-1",
-          "oran": "8.24"
-        },
-        {
-          "secenek": "3-0",
-          "oran": "5.70"
-        },
-        {
-          "secenek": "3-1",
-          "oran": "10.65"
-        },
-        {
-          "secenek": "3-2",
-          "oran": "40.00"
-        },
-        {
-          "secenek": "4-0",
-          "oran": "9.71"
-        },
-        {
-          "secenek": "4-1",
-          "oran": "18.35"
-        },
-        {
-          "secenek": "4-2",
-          "oran": "69.00"
-        },
-        {
-          "secenek": "5-0",
-          "oran": "20.85"
-        },
-        {
-          "secenek": "5-1",
-          "oran": "39.50"
-        },
-        {
-          "secenek": "6-0",
-          "oran": "54.00"
-        },
-        {
-          "secenek": "0-0",
-          "oran": "11.55"
-        },
-        {
-          "secenek": "1-1",
-          "oran": "10.05"
-        },
-        {
-          "secenek": "2-2",
-          "oran": "33.00"
-        },
-        {
-          "secenek": "3-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "21.55"
-        },
-        {
-          "secenek": "0-2",
-          "oran": "81.00"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "35.50"
-        },
-        {
-          "secenek": "0-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "2-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-6",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "Diğer",
-          "oran": "26.00"
-        }
-      ],
-      "İlk Gol MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.12"
-        },
-        {
-          "secenek": "Olmaz",
-          "oran": "13.85"
-        },
-        {
-          "secenek": "2",
-          "oran": "4.74"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.12"
-        },
-        {
-          "secenek": "Olmaz",
-          "oran": "13.85"
-        },
-        {
-          "secenek": "2",
-          "oran": "4.74"
-        }
-      ],
-      "MS ve 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "5.95"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "13.50"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "25.15"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "1.50"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "8.81"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "21.05"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "5.95"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "13.50"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "25.15"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "1.50"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "8.81"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "21.05"
-        }
-      ],
-      "MS ve 4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "5.57"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "12.60"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "5.47"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "5.57"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "12.60"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "5.47"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "35.20"
-        }
-      ],
-      "MS ve 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.97"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "6.54"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "20.35"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "1.91"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "33.70"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "27.20"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.97"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "6.54"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "20.35"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "1.91"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "33.70"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "27.20"
-        }
-      ],
-      "MS ve 3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "1.66"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "6.34"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "13.30"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "2.87"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "33.50"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "1.66"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "6.34"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "13.30"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "2.87"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "33.50"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "35.00"
-        }
-      ],
-      "1. Yarı Deplasman 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.29"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.13"
-        },
-        {
-          "secenek": "12+",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.29"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.13"
-        }
-      ],
-      "Ev Sahibi 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.56"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.27"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.56"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.27"
-        }
-      ],
-      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.44"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.07"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.44"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.07"
-        }
-      ],
-      "Ev Sahibi 3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.28"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.21"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.28"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.21"
-        }
-      ],
-      "En Çok Gol Olacak Yarı MBS 1": [
-        {
-          "secenek": "1. Yarı",
-          "oran": "2.65"
-        },
-        {
-          "secenek": "Eşit",
-          "oran": "3.38"
-        },
-        {
-          "secenek": "2. Yarı",
-          "oran": "1.99"
-        },
-        {
-          "secenek": "1. Yarı",
-          "oran": "2.65"
-        },
-        {
-          "secenek": "Eşit",
-          "oran": "3.38"
-        },
-        {
-          "secenek": "2. Yarı",
-          "oran": "1.99"
-        }
-      ],
-      "Deplasman 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.44"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.08"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.44"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.08"
-        }
-      ],
-      "Deplasman 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "7.77"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "7.77"
-        }
-      ],
-      "Deplasman 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "17.50"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "17.50"
-        }
-      ],
-      "1. Yarı Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "5.81"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Var",
-          "oran": "5.81"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        }
-      ],
-      "Ev Sahibi İki Yarıyı da Kazanır MBS 1": [
-        {
-          "secenek": "Evet",
-          "oran": "2.58"
-        },
-        {
-          "secenek": "Hayır",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "Evet",
-          "oran": "2.58"
-        },
-        {
-          "secenek": "Hayır",
-          "oran": "1.52"
+          "oran": "8.03"
         }
       ],
       "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "2.66"
+          "oran": "1.71"
         },
         {
           "secenek": "Üst",
-          "oran": "1.50"
+          "oran": "2.14"
         },
         {
           "secenek": "Alt",
-          "oran": "2.66"
+          "oran": "1.71"
         },
         {
           "secenek": "Üst",
-          "oran": "1.50"
+          "oran": "2.14"
         }
       ]
     },
@@ -4719,31 +2401,1173 @@
         }
       ]
     },
-    "11fmibp5gnpgoadu016cdshsk": {
+    "z9n3jsyplrk1hzwg379me0wk": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.15"
+          "oran": "17.70"
         },
         {
           "secenek": "X",
-          "oran": "5.08"
+          "oran": "10.13"
         },
         {
           "secenek": "2",
-          "oran": "9.14"
+          "oran": "-"
         },
         {
           "secenek": "1",
-          "oran": "1.15"
+          "oran": "17.70"
         },
         {
           "secenek": "X",
-          "oran": "5.08"
+          "oran": "10.13"
         },
         {
           "secenek": "2",
-          "oran": "9.14"
+          "oran": "-"
+        }
+      ],
+      "Çifte Şans MBS 1": [
+        {
+          "secenek": "1-X",
+          "oran": "6.45"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "-"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "-"
+        },
+        {
+          "secenek": "1-X",
+          "oran": "6.45"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "-"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "-"
+        }
+      ],
+      "2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.36"
+        }
+      ],
+      "1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "4.80"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "4.80"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        }
+      ],
+      "3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.64"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.64"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.28"
+        }
+      ],
+      "4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.31"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.84"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.31"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.84"
+        }
+      ],
+      "5,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "7.04"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "7.04"
+        }
+      ],
+      "1. Yarı 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.05"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.39"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.05"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.39"
+        }
+      ],
+      "1. Yarı 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "3.68"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.10"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "3.68"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.10"
+        }
+      ],
+      "1. Yarı 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.71"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.14"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.71"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.14"
+        }
+      ],
+      "1. Yarı Çifte Şans MBS 1": [
+        {
+          "secenek": "1-X",
+          "oran": "2.73"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "-"
+        },
+        {
+          "secenek": "1-X",
+          "oran": "2.73"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "-"
+        }
+      ],
+      "1. Yarı Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "18.80"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.06"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.25"
+        },
+        {
+          "secenek": "1",
+          "oran": "18.80"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.06"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.25"
+        }
+      ],
+      "2. Yarı Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "18.45"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.86"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.38"
+        },
+        {
+          "secenek": "1",
+          "oran": "18.45"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.86"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.38"
+        }
+      ],
+      "Tek/Çift MBS 1": [
+        {
+          "secenek": "Tek",
+          "oran": "1.88"
+        },
+        {
+          "secenek": "Çift",
+          "oran": "1.92"
+        },
+        {
+          "secenek": "Tek",
+          "oran": "1.88"
+        },
+        {
+          "secenek": "Çift",
+          "oran": "1.92"
+        }
+      ],
+      "Toplam Gol Aralığı MBS 1": [
+        {
+          "secenek": "0-1",
+          "oran": "5.03"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "2.13"
+        },
+        {
+          "secenek": "4-5",
+          "oran": "2.96"
+        },
+        {
+          "secenek": "6+",
+          "oran": "7.59"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "5.03"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "2.13"
+        },
+        {
+          "secenek": "4-5",
+          "oran": "2.96"
+        },
+        {
+          "secenek": "6+",
+          "oran": "7.59"
+        }
+      ],
+      "Karşılıklı Gol MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "3.18"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "1.39"
+        },
+        {
+          "secenek": "Var",
+          "oran": "3.18"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "1.39"
+        }
+      ],
+      "İlk Yarı/Maç Sonucu MBS 1": [
+        {
+          "secenek": "1/1",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/1",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2/1",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "1/X",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/X",
+          "oran": "12.50"
+        },
+        {
+          "secenek": "2/X",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "1/2",
+          "oran": "33.20"
+        },
+        {
+          "secenek": "X/2",
+          "oran": "3.69"
+        },
+        {
+          "secenek": "2/2",
+          "oran": "1.41"
+        },
+        {
+          "secenek": "1/1",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "1/X",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "1/2",
+          "oran": "33.20"
+        },
+        {
+          "secenek": "X/1",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/X",
+          "oran": "12.50"
+        },
+        {
+          "secenek": "X/2",
+          "oran": "3.69"
+        },
+        {
+          "secenek": "2/1",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2/X",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2/2",
+          "oran": "1.41"
+        }
+      ],
+      "Hnd. MS (2:0) MBS 1": [
+        {
+          "secenek": "+2h",
+          "oran": "2.93"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.65"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.93"
+        },
+        {
+          "secenek": "+2h",
+          "oran": "2.93"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.65"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.93"
+        }
+      ],
+      "Hnd. MS (1:0) MBS 1": [
+        {
+          "secenek": "+1h",
+          "oran": "7.04"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.07"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.18"
+        },
+        {
+          "secenek": "+1h",
+          "oran": "7.04"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.07"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.18"
+        }
+      ],
+      "Hnd. MS (3:0) MBS 1": [
+        {
+          "secenek": "+3h",
+          "oran": "1.77"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.09"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.14"
+        },
+        {
+          "secenek": "+3h",
+          "oran": "1.77"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.09"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.14"
+        }
+      ],
+      "Maç Skoru MBS 1": [
+        {
+          "secenek": "0-0",
+          "oran": "19.00"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "6.11"
+        },
+        {
+          "secenek": "0-2",
+          "oran": "4.40"
+        },
+        {
+          "secenek": "0-3",
+          "oran": "4.60"
+        },
+        {
+          "secenek": "0-4",
+          "oran": "6.28"
+        },
+        {
+          "secenek": "0-5",
+          "oran": "10.70"
+        },
+        {
+          "secenek": "1-0",
+          "oran": "45.70"
+        },
+        {
+          "secenek": "1-1",
+          "oran": "20.10"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "11.50"
+        },
+        {
+          "secenek": "1-3",
+          "oran": "12.05"
+        },
+        {
+          "secenek": "1-4",
+          "oran": "16.75"
+        },
+        {
+          "secenek": "1-5",
+          "oran": "29.20"
+        },
+        {
+          "secenek": "2-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "2-1",
+          "oran": "88.20"
+        },
+        {
+          "secenek": "2-2",
+          "oran": "77.20"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "65.20"
+        },
+        {
+          "secenek": "2-4",
+          "oran": "92.20"
+        },
+        {
+          "secenek": "0-6",
+          "oran": "22.05"
+        },
+        {
+          "secenek": "3-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "3-1",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "3-2",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "3-3",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-1",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-2",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "5-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "5-1",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "6-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "Diğer",
+          "oran": "14.75"
+        },
+        {
+          "secenek": "1-0",
+          "oran": "45.70"
+        },
+        {
+          "secenek": "2-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "2-1",
+          "oran": "88.20"
+        },
+        {
+          "secenek": "3-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "3-1",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "3-2",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-1",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-2",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "5-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "5-1",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "6-0",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-0",
+          "oran": "19.00"
+        },
+        {
+          "secenek": "1-1",
+          "oran": "20.10"
+        },
+        {
+          "secenek": "2-2",
+          "oran": "77.20"
+        },
+        {
+          "secenek": "3-3",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "6.11"
+        },
+        {
+          "secenek": "0-2",
+          "oran": "4.40"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "11.50"
+        },
+        {
+          "secenek": "0-3",
+          "oran": "4.60"
+        },
+        {
+          "secenek": "1-3",
+          "oran": "12.05"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "65.20"
+        },
+        {
+          "secenek": "0-4",
+          "oran": "6.28"
+        },
+        {
+          "secenek": "1-4",
+          "oran": "16.75"
+        },
+        {
+          "secenek": "2-4",
+          "oran": "92.20"
+        },
+        {
+          "secenek": "0-5",
+          "oran": "10.70"
+        },
+        {
+          "secenek": "1-5",
+          "oran": "29.20"
+        },
+        {
+          "secenek": "0-6",
+          "oran": "22.05"
+        },
+        {
+          "secenek": "Diğer",
+          "oran": "14.75"
+        }
+      ],
+      "İlk Gol MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "7.70"
+        },
+        {
+          "secenek": "Olmaz",
+          "oran": "22.10"
+        },
+        {
+          "secenek": "2",
+          "oran": "-"
+        },
+        {
+          "secenek": "1",
+          "oran": "7.70"
+        },
+        {
+          "secenek": "Olmaz",
+          "oran": "22.10"
+        }
+      ],
+      "MS ve 4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "29.70"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "10.09"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "1.45"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "3.74"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "29.70"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "10.09"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "1.45"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "3.74"
+        }
+      ],
+      "MS ve 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "11.45"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "3.03"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "1.57"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "11.45"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "3.03"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "1.57"
+        }
+      ],
+      "MS ve 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "20.65"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "6.41"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "17.00"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "1.09"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "20.65"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "6.41"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "17.00"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "1.09"
+        }
+      ],
+      "MS ve 3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "31.00"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "11.35"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "1.65"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "2.08"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "31.00"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "11.35"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "1.65"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "2.08"
+        }
+      ],
+      "1. Yarı Deplasman 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.58"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.41"
+        },
+        {
+          "secenek": "12+",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.58"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.41"
+        }
+      ],
+      "Ev Sahibi 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "13.10"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "13.10"
+        }
+      ],
+      "Ev Sahibi 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.42"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.01"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.42"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.01"
+        }
+      ],
+      "En Çok Gol Olacak Yarı MBS 1": [
+        {
+          "secenek": "1. Yarı",
+          "oran": "2.80"
+        },
+        {
+          "secenek": "Eşit",
+          "oran": "3.90"
+        },
+        {
+          "secenek": "2. Yarı",
+          "oran": "2.12"
+        },
+        {
+          "secenek": "1. Yarı",
+          "oran": "2.80"
+        },
+        {
+          "secenek": "Eşit",
+          "oran": "3.90"
+        },
+        {
+          "secenek": "2. Yarı",
+          "oran": "2.12"
+        }
+      ],
+      "Deplasman 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "3.85"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.09"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "3.85"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.09"
+        }
+      ],
+      "Deplasman 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.09"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.74"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.09"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.74"
+        }
+      ],
+      "Deplasman 3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.47"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.77"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.47"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.77"
+        }
+      ],
+      "1. Yarı Karşılıklı Gol MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "7.15"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        },
+        {
+          "secenek": "Var",
+          "oran": "7.15"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        }
+      ],
+      "Deplasman İki Yarıyı da Kazanır MBS 1": [
+        {
+          "secenek": "Evet",
+          "oran": "1.92"
+        },
+        {
+          "secenek": "Hayır",
+          "oran": "1.88"
+        },
+        {
+          "secenek": "Evet",
+          "oran": "1.92"
+        },
+        {
+          "secenek": "Hayır",
+          "oran": "1.88"
+        }
+      ],
+      "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.60"
+        }
+      ]
+    },
+    "12wzj83iaup8xkgt47l42gpas": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.29"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.75"
+        },
+        {
+          "secenek": "2",
+          "oran": "12.00"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.29"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.75"
+        },
+        {
+          "secenek": "2",
+          "oran": "12.00"
         }
       ],
       "Çifte Şans MBS 1": [
@@ -4757,7 +3581,7 @@
         },
         {
           "secenek": "X-2",
-          "oran": "3.30"
+          "oran": "3.74"
         },
         {
           "secenek": "1-X",
@@ -4769,43 +3593,61 @@
         },
         {
           "secenek": "X-2",
-          "oran": "3.30"
+          "oran": "3.74"
         }
       ],
-      "0,5 Alt/Üst MBS 1": [
+      "2,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "12.10"
+          "oran": "1.84"
         },
         {
           "secenek": "Üst",
-          "oran": "-"
+          "oran": "1.58"
         },
         {
           "secenek": "Alt",
-          "oran": "12.10"
+          "oran": "1.84"
         },
         {
           "secenek": "Üst",
-          "oran": "-"
+          "oran": "1.58"
         }
       ],
       "1,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "3.94"
+          "oran": "3.61"
         },
         {
           "secenek": "Üst",
-          "oran": "1.30"
+          "oran": "1.11"
         },
         {
           "secenek": "Alt",
-          "oran": "3.94"
+          "oran": "3.61"
         },
         {
           "secenek": "Üst",
-          "oran": "1.30"
+          "oran": "1.11"
+        }
+      ],
+      "0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "11.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "11.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
         }
       ],
       "4,5 Alt/Üst MBS 1": [
@@ -4815,7 +3657,7 @@
         },
         {
           "secenek": "Üst",
-          "oran": "5.02"
+          "oran": "5.25"
         },
         {
           "secenek": "Alt",
@@ -4823,43 +3665,25 @@
         },
         {
           "secenek": "Üst",
-          "oran": "5.02"
-        }
-      ],
-      "2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.09"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.75"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.09"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.75"
+          "oran": "5.25"
         }
       ],
       "3,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "1.27"
+          "oran": "1.25"
         },
         {
           "secenek": "Üst",
-          "oran": "2.56"
+          "oran": "2.65"
         },
         {
           "secenek": "Alt",
-          "oran": "1.27"
+          "oran": "1.25"
         },
         {
           "secenek": "Üst",
-          "oran": "2.56"
+          "oran": "2.65"
         }
       ],
       "1. Yarı 2,5 Alt/Üst MBS 1": [
@@ -4869,7 +3693,7 @@
         },
         {
           "secenek": "Üst",
-          "oran": "5.68"
+          "oran": "5.82"
         },
         {
           "secenek": "Alt",
@@ -4877,43 +3701,43 @@
         },
         {
           "secenek": "Üst",
-          "oran": "5.68"
+          "oran": "5.82"
         }
       ],
       "1. Yarı 0,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "3.32"
+          "oran": "3.28"
         },
         {
           "secenek": "Üst",
-          "oran": "1.36"
+          "oran": "1.37"
         },
         {
           "secenek": "Alt",
-          "oran": "3.32"
+          "oran": "3.28"
         },
         {
           "secenek": "Üst",
-          "oran": "1.36"
+          "oran": "1.37"
         }
       ],
       "1. Yarı 1,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "1.37"
+          "oran": "1.36"
         },
         {
           "secenek": "Üst",
-          "oran": "2.23"
+          "oran": "2.27"
         },
         {
           "secenek": "Alt",
-          "oran": "1.37"
+          "oran": "1.36"
         },
         {
           "secenek": "Üst",
-          "oran": "2.23"
+          "oran": "2.27"
         }
       ],
       "1. Yarı Çifte Şans MBS 1": [
@@ -4923,11 +3747,11 @@
         },
         {
           "secenek": "1-2",
-          "oran": "1.30"
+          "oran": "1.28"
         },
         {
           "secenek": "X-2",
-          "oran": "1.84"
+          "oran": "1.95"
         },
         {
           "secenek": "1-X",
@@ -4935,159 +3759,159 @@
         },
         {
           "secenek": "1-2",
-          "oran": "1.30"
+          "oran": "1.28"
         },
         {
           "secenek": "X-2",
-          "oran": "1.84"
+          "oran": "1.95"
         }
       ],
       "1. Yarı Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.75"
+          "oran": "1.68"
         },
         {
           "secenek": "X",
-          "oran": "2.62"
+          "oran": "2.68"
         },
         {
           "secenek": "2",
-          "oran": "8.54"
+          "oran": "10.45"
         },
         {
           "secenek": "1",
-          "oran": "1.75"
+          "oran": "1.68"
         },
         {
           "secenek": "X",
-          "oran": "2.62"
+          "oran": "2.68"
         },
         {
           "secenek": "2",
-          "oran": "8.54"
+          "oran": "10.45"
         }
       ],
       "2. Yarı Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.66"
+          "oran": "1.60"
         },
         {
           "secenek": "X",
-          "oran": "2.99"
+          "oran": "3.04"
         },
         {
           "secenek": "2",
-          "oran": "7.69"
+          "oran": "9.39"
         },
         {
           "secenek": "1",
-          "oran": "1.66"
+          "oran": "1.60"
         },
         {
           "secenek": "X",
-          "oran": "2.99"
+          "oran": "3.04"
         },
         {
           "secenek": "2",
-          "oran": "7.69"
+          "oran": "9.39"
         }
       ],
       "Tek/Çift MBS 1": [
         {
           "secenek": "Tek",
-          "oran": "1.90"
+          "oran": "1.70"
         },
         {
           "secenek": "Çift",
-          "oran": "1.91"
+          "oran": "1.71"
         },
         {
           "secenek": "Tek",
-          "oran": "1.90"
+          "oran": "1.70"
         },
         {
           "secenek": "Çift",
-          "oran": "1.91"
+          "oran": "1.71"
         }
       ],
       "Toplam Gol Aralığı MBS 1": [
         {
           "secenek": "0-1",
-          "oran": "3.89"
+          "oran": "3.57"
         },
         {
           "secenek": "2-3",
-          "oran": "2.02"
+          "oran": "1.81"
         },
         {
           "secenek": "4-5",
-          "oran": "3.40"
+          "oran": "3.28"
         },
         {
           "secenek": "6+",
-          "oran": "11.20"
+          "oran": "11.70"
         },
         {
           "secenek": "0-1",
-          "oran": "3.89"
+          "oran": "3.57"
         },
         {
           "secenek": "2-3",
-          "oran": "2.02"
+          "oran": "1.81"
         },
         {
           "secenek": "4-5",
-          "oran": "3.40"
+          "oran": "3.28"
         },
         {
           "secenek": "6+",
-          "oran": "11.20"
+          "oran": "11.70"
         }
       ],
       "Karşılıklı Gol MBS 1": [
         {
           "secenek": "Var",
-          "oran": "2.03"
+          "oran": "2.51"
         },
         {
           "secenek": "Yok",
-          "oran": "1.46"
+          "oran": "1.55"
         },
         {
           "secenek": "Var",
-          "oran": "2.03"
+          "oran": "2.51"
         },
         {
           "secenek": "Yok",
-          "oran": "1.46"
+          "oran": "1.55"
         }
       ],
       "İlk Yarı/Maç Sonucu MBS 1": [
         {
           "secenek": "1/1",
-          "oran": "1.76"
+          "oran": "1.67"
         },
         {
           "secenek": "X/1",
-          "oran": "3.86"
+          "oran": "3.75"
         },
         {
           "secenek": "2/1",
-          "oran": "24.70"
+          "oran": "27.20"
         },
         {
           "secenek": "1/X",
-          "oran": "22.50"
+          "oran": "26.20"
         },
         {
           "secenek": "X/X",
-          "oran": "7.25"
+          "oran": "7.52"
         },
         {
           "secenek": "2/X",
-          "oran": "26.20"
+          "oran": "31.70"
         },
         {
           "secenek": "1/2",
@@ -5095,19 +3919,19 @@
         },
         {
           "secenek": "X/2",
-          "oran": "18.60"
+          "oran": "22.95"
         },
         {
           "secenek": "2/2",
-          "oran": "17.15"
+          "oran": "22.50"
         },
         {
           "secenek": "1/1",
-          "oran": "1.76"
+          "oran": "1.67"
         },
         {
           "secenek": "1/X",
-          "oran": "22.50"
+          "oran": "26.20"
         },
         {
           "secenek": "1/2",
@@ -5115,575 +3939,575 @@
         },
         {
           "secenek": "X/1",
-          "oran": "3.86"
+          "oran": "3.75"
         },
         {
           "secenek": "X/X",
-          "oran": "7.25"
+          "oran": "7.52"
         },
         {
           "secenek": "X/2",
-          "oran": "18.60"
+          "oran": "22.95"
         },
         {
           "secenek": "2/1",
-          "oran": "24.70"
+          "oran": "27.20"
         },
         {
           "secenek": "2/X",
-          "oran": "26.20"
+          "oran": "31.70"
         },
         {
           "secenek": "2/2",
-          "oran": "17.15"
+          "oran": "22.50"
         }
       ],
       "Hnd. MS (0:3) MBS 1": [
         {
           "secenek": "1",
-          "oran": "5.92"
+          "oran": "5.30"
         },
         {
           "secenek": "X",
-          "oran": "5.21"
+          "oran": "4.89"
         },
         {
           "secenek": "+3h",
-          "oran": "1.36"
+          "oran": "1.41"
         },
         {
           "secenek": "1",
-          "oran": "5.92"
+          "oran": "5.30"
         },
         {
           "secenek": "X",
-          "oran": "5.21"
+          "oran": "4.89"
         },
         {
           "secenek": "+3h",
-          "oran": "1.36"
+          "oran": "1.41"
         }
       ],
       "Hnd. MS (0:2) MBS 1": [
         {
           "secenek": "1",
-          "oran": "2.84"
+          "oran": "2.78"
         },
         {
           "secenek": "X",
-          "oran": "3.55"
+          "oran": "3.64"
         },
         {
           "secenek": "+2h",
-          "oran": "1.66"
+          "oran": "2.00"
         },
         {
           "secenek": "1",
-          "oran": "2.84"
+          "oran": "2.78"
         },
         {
           "secenek": "X",
-          "oran": "3.55"
+          "oran": "3.64"
         },
         {
           "secenek": "+2h",
-          "oran": "1.66"
+          "oran": "2.00"
         }
       ],
       "Hnd. MS (0:1) MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.63"
+          "oran": "1.52"
         },
         {
           "secenek": "X",
-          "oran": "3.31"
+          "oran": "3.33"
         },
         {
           "secenek": "+1h",
-          "oran": "3.15"
+          "oran": "3.63"
         },
         {
           "secenek": "1",
-          "oran": "1.63"
+          "oran": "1.52"
         },
         {
           "secenek": "X",
-          "oran": "3.31"
+          "oran": "3.33"
         },
         {
           "secenek": "+1h",
-          "oran": "3.15"
+          "oran": "3.63"
         }
       ],
       "Maç Skoru MBS 1": [
         {
           "secenek": "0-0",
-          "oran": "12.25"
+          "oran": "11.55"
         },
         {
           "secenek": "0-1",
-          "oran": "19.15"
+          "oran": "21.55"
         },
         {
           "secenek": "0-2",
-          "oran": "60.20"
+          "oran": "81.00"
         },
         {
           "secenek": "0-3",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-4",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-5",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "1-0",
-          "oran": "5.67"
+          "oran": "5.07"
         },
         {
           "secenek": "1-1",
-          "oran": "9.17"
+          "oran": "10.05"
         },
         {
           "secenek": "1-2",
-          "oran": "26.70"
+          "oran": "35.50"
         },
         {
           "secenek": "1-3",
-          "oran": "125.20"
+          "oran": "130.00"
         },
         {
           "secenek": "1-4",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "1-5",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "2-0",
-          "oran": "5.08"
+          "oran": "4.43"
         },
         {
           "secenek": "2-1",
-          "oran": "7.81"
+          "oran": "8.24"
         },
         {
           "secenek": "2-2",
-          "oran": "25.15"
+          "oran": "33.00"
         },
         {
           "secenek": "2-3",
-          "oran": "115.20"
+          "oran": "130.00"
         },
         {
           "secenek": "2-4",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-6",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "3-0",
-          "oran": "6.64"
+          "oran": "5.70"
         },
         {
           "secenek": "3-1",
-          "oran": "10.25"
+          "oran": "10.65"
         },
         {
           "secenek": "3-2",
-          "oran": "31.70"
+          "oran": "40.00"
         },
         {
           "secenek": "3-3",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "4-0",
-          "oran": "11.50"
+          "oran": "9.71"
         },
         {
           "secenek": "4-1",
-          "oran": "17.95"
+          "oran": "18.35"
         },
         {
           "secenek": "4-2",
-          "oran": "56.20"
+          "oran": "69.00"
         },
         {
           "secenek": "5-0",
-          "oran": "25.15"
+          "oran": "20.85"
         },
         {
           "secenek": "5-1",
-          "oran": "39.70"
+          "oran": "39.50"
         },
         {
           "secenek": "6-0",
-          "oran": "66.20"
+          "oran": "54.00"
         },
         {
           "secenek": "Diğer",
-          "oran": "24.25"
+          "oran": "26.00"
         },
         {
           "secenek": "1-0",
-          "oran": "5.67"
+          "oran": "5.07"
         },
         {
           "secenek": "2-0",
-          "oran": "5.08"
+          "oran": "4.43"
         },
         {
           "secenek": "2-1",
-          "oran": "7.81"
+          "oran": "8.24"
         },
         {
           "secenek": "3-0",
-          "oran": "6.64"
+          "oran": "5.70"
         },
         {
           "secenek": "3-1",
-          "oran": "10.25"
+          "oran": "10.65"
         },
         {
           "secenek": "3-2",
-          "oran": "31.70"
+          "oran": "40.00"
         },
         {
           "secenek": "4-0",
-          "oran": "11.50"
+          "oran": "9.71"
         },
         {
           "secenek": "4-1",
-          "oran": "17.95"
+          "oran": "18.35"
         },
         {
           "secenek": "4-2",
-          "oran": "56.20"
+          "oran": "69.00"
         },
         {
           "secenek": "5-0",
-          "oran": "25.15"
+          "oran": "20.85"
         },
         {
           "secenek": "5-1",
-          "oran": "39.70"
+          "oran": "39.50"
         },
         {
           "secenek": "6-0",
-          "oran": "66.20"
+          "oran": "54.00"
         },
         {
           "secenek": "0-0",
-          "oran": "12.25"
+          "oran": "11.55"
         },
         {
           "secenek": "1-1",
-          "oran": "9.17"
+          "oran": "10.05"
         },
         {
           "secenek": "2-2",
-          "oran": "25.15"
+          "oran": "33.00"
         },
         {
           "secenek": "3-3",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-1",
-          "oran": "19.15"
+          "oran": "21.55"
         },
         {
           "secenek": "0-2",
-          "oran": "60.20"
+          "oran": "81.00"
         },
         {
           "secenek": "1-2",
-          "oran": "26.70"
+          "oran": "35.50"
         },
         {
           "secenek": "0-3",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "1-3",
-          "oran": "125.20"
+          "oran": "130.00"
         },
         {
           "secenek": "2-3",
-          "oran": "115.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-4",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "1-4",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "2-4",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-5",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "1-5",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "0-6",
-          "oran": "130.20"
+          "oran": "130.00"
         },
         {
           "secenek": "Diğer",
-          "oran": "24.25"
+          "oran": "26.00"
         }
       ],
       "İlk Gol MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.36"
+          "oran": "1.12"
         },
         {
           "secenek": "Olmaz",
-          "oran": "14.70"
+          "oran": "13.85"
         },
         {
           "secenek": "2",
-          "oran": "4.23"
+          "oran": "4.74"
         },
         {
           "secenek": "1",
-          "oran": "1.36"
+          "oran": "1.12"
         },
         {
           "secenek": "Olmaz",
-          "oran": "14.70"
+          "oran": "13.85"
         },
         {
           "secenek": "2",
-          "oran": "4.23"
-        }
-      ],
-      "MS ve 4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "1.41"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "4.98"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "9.80"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "5.22"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "1.41"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "4.98"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "9.80"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "5.22"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.00"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "35.00"
+          "oran": "4.74"
         }
       ],
       "MS ve 1,5 Alt/Üst MBS 1": [
         {
           "secenek": "1 ve Alt",
-          "oran": "6.23"
+          "oran": "5.95"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "13.85"
+          "oran": "13.50"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "21.90"
+          "oran": "25.15"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "1.36"
+          "oran": "1.50"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "7.32"
+          "oran": "8.81"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "14.60"
+          "oran": "21.05"
         },
         {
           "secenek": "1 ve Alt",
-          "oran": "6.23"
+          "oran": "5.95"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "13.85"
+          "oran": "13.50"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "21.90"
+          "oran": "25.15"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "1.36"
+          "oran": "1.50"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "7.32"
+          "oran": "8.81"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "14.60"
+          "oran": "21.05"
+        }
+      ],
+      "MS ve 4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "1.52"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "5.57"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "12.60"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "5.47"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "1.52"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "5.57"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "12.60"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "5.47"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "35.20"
         }
       ],
       "MS ve 2,5 Alt/Üst MBS 1": [
         {
           "secenek": "1 ve Alt",
-          "oran": "3.02"
+          "oran": "2.97"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "6.06"
+          "oran": "6.54"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "17.00"
+          "oran": "20.35"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "1.74"
+          "oran": "1.91"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "24.95"
+          "oran": "33.70"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "18.75"
+          "oran": "27.20"
         },
         {
           "secenek": "1 ve Alt",
-          "oran": "3.02"
+          "oran": "2.97"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "6.06"
+          "oran": "6.54"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "17.00"
+          "oran": "20.35"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "1.74"
+          "oran": "1.91"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "24.95"
+          "oran": "33.70"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "18.75"
+          "oran": "27.20"
         }
       ],
       "MS ve 3,5 Alt/Üst MBS 1": [
         {
           "secenek": "1 ve Alt",
-          "oran": "1.98"
+          "oran": "1.66"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "6.26"
+          "oran": "6.34"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "10.90"
+          "oran": "13.30"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "3.11"
+          "oran": "2.87"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "25.15"
+          "oran": "33.50"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "35.20"
+          "oran": "35.00"
         },
         {
           "secenek": "1 ve Alt",
-          "oran": "1.98"
+          "oran": "1.66"
         },
         {
           "secenek": "X ve Alt",
-          "oran": "6.26"
+          "oran": "6.34"
         },
         {
           "secenek": "2 ve Alt",
-          "oran": "10.90"
+          "oran": "13.30"
         },
         {
           "secenek": "1 ve Üst",
-          "oran": "3.11"
+          "oran": "2.87"
         },
         {
           "secenek": "X ve Üst",
-          "oran": "25.15"
+          "oran": "33.50"
         },
         {
           "secenek": "2 ve Üst",
-          "oran": "35.20"
+          "oran": "35.00"
         }
       ],
       "1. Yarı Deplasman 0,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "1.34"
+          "oran": "1.29"
         },
         {
           "secenek": "Üst",
-          "oran": "3.58"
+          "oran": "4.13"
         },
         {
           "secenek": "12+",
@@ -5691,91 +4515,127 @@
         },
         {
           "secenek": "Alt",
-          "oran": "1.34"
+          "oran": "1.29"
         },
         {
           "secenek": "Üst",
-          "oran": "3.58"
-        }
-      ],
-      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.41"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.14"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.41"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.14"
+          "oran": "4.13"
         }
       ],
       "Ev Sahibi 1,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "2.46"
+          "oran": "2.56"
         },
         {
           "secenek": "Üst",
-          "oran": "1.30"
+          "oran": "1.27"
         },
         {
           "secenek": "Alt",
-          "oran": "2.46"
+          "oran": "2.56"
         },
         {
           "secenek": "Üst",
-          "oran": "1.30"
+          "oran": "1.27"
+        }
+      ],
+      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.44"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.07"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.44"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.07"
         }
       ],
       "Ev Sahibi 3,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "1.07"
+          "oran": "1.28"
         },
         {
           "secenek": "Üst",
-          "oran": "4.23"
+          "oran": "4.21"
         },
         {
           "secenek": "Alt",
-          "oran": "1.07"
+          "oran": "1.28"
         },
         {
           "secenek": "Üst",
-          "oran": "4.23"
+          "oran": "4.21"
         }
       ],
       "En Çok Gol Olacak Yarı MBS 1": [
         {
           "secenek": "1. Yarı",
-          "oran": "2.68"
+          "oran": "2.65"
         },
         {
           "secenek": "Eşit",
-          "oran": "3.41"
+          "oran": "3.38"
         },
         {
           "secenek": "2. Yarı",
-          "oran": "1.96"
+          "oran": "1.99"
         },
         {
           "secenek": "1. Yarı",
-          "oran": "2.68"
+          "oran": "2.65"
         },
         {
           "secenek": "Eşit",
-          "oran": "3.41"
+          "oran": "3.38"
         },
         {
           "secenek": "2. Yarı",
-          "oran": "1.96"
+          "oran": "1.99"
+        }
+      ],
+      "Deplasman 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.44"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.08"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.44"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.08"
+        }
+      ],
+      "Deplasman 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "7.77"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "7.77"
         }
       ],
       "Deplasman 2,5 Alt/Üst MBS 1": [
@@ -5796,108 +4656,58 @@
           "oran": "17.50"
         }
       ],
-      "Deplasman 0,5 Alt/Üst MBS 1": [
+      "1. Yarı Karşılıklı Gol MBS 1": [
         {
-          "secenek": "Alt",
-          "oran": "1.79"
+          "secenek": "Var",
+          "oran": "5.81"
         },
         {
-          "secenek": "Üst",
-          "oran": "2.02"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.79"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.02"
-        }
-      ],
-      "Deplasman 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
+          "secenek": "Yok",
           "oran": "-"
         },
         {
-          "secenek": "Üst",
-          "oran": "5.95"
+          "secenek": "Var",
+          "oran": "5.81"
         },
         {
-          "secenek": "Alt",
+          "secenek": "Yok",
           "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.95"
         }
       ],
       "Ev Sahibi İki Yarıyı da Kazanır MBS 1": [
         {
           "secenek": "Evet",
-          "oran": "2.61"
+          "oran": "2.58"
         },
         {
           "secenek": "Hayır",
-          "oran": "1.26"
+          "oran": "1.52"
         },
         {
           "secenek": "Evet",
-          "oran": "2.61"
+          "oran": "2.58"
         },
         {
           "secenek": "Hayır",
-          "oran": "1.26"
-        }
-      ],
-      "1. Yarı Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "5.10"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Var",
-          "oran": "5.10"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
+          "oran": "1.52"
         }
       ],
       "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
         {
           "secenek": "Alt",
-          "oran": "2.38"
+          "oran": "2.66"
         },
         {
           "secenek": "Üst",
-          "oran": "1.32"
+          "oran": "1.50"
         },
         {
           "secenek": "Alt",
-          "oran": "2.38"
+          "oran": "2.66"
         },
         {
           "secenek": "Üst",
-          "oran": "1.32"
-        }
-      ],
-      "Deplasman İki Yarıyı da Kazanır MBS 1": [
-        {
-          "secenek": "Evet",
-          "oran": "17.70"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Evet",
-          "oran": "17.70"
+          "oran": "1.50"
         }
       ]
     },
@@ -8333,1184 +7143,6 @@
         }
       ]
     },
-    "10rxmu1lmbsyupvva42tjct90": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "2.25"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.04"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.17"
-        },
-        {
-          "secenek": "1",
-          "oran": "2.25"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.04"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.17"
-        }
-      ],
-      "Çifte Şans MBS 1": [
-        {
-          "secenek": "1-X",
-          "oran": "1.39"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.42"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "1.64"
-        },
-        {
-          "secenek": "1-X",
-          "oran": "1.39"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.42"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "1.64"
-        }
-      ],
-      "0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "7.10"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "7.10"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "-"
-        }
-      ],
-      "4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "9.30"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "9.30"
-        }
-      ],
-      "2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.60"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.35"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.60"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.35"
-        }
-      ],
-      "1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.48"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.30"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.48"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.30"
-        }
-      ],
-      "3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.27"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.37"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.27"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "4.37"
-        }
-      ],
-      "1. Yarı 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "8.97"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "8.97"
-        }
-      ],
-      "1. Yarı 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.43"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.57"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.43"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.57"
-        }
-      ],
-      "1. Yarı 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.33"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.33"
-        }
-      ],
-      "1. Yarı Çifte Şans MBS 1": [
-        {
-          "secenek": "1-X",
-          "oran": "1.10"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.58"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "1.23"
-        },
-        {
-          "secenek": "1-X",
-          "oran": "1.10"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "1.58"
-        },
-        {
-          "secenek": "X-2",
-          "oran": "1.23"
-        }
-      ],
-      "1. Yarı Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "2.98"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.00"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.98"
-        },
-        {
-          "secenek": "1",
-          "oran": "2.98"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.00"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.98"
-        }
-      ],
-      "2. Yarı Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "2.47"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.15"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.26"
-        },
-        {
-          "secenek": "1",
-          "oran": "2.47"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.15"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.26"
-        }
-      ],
-      "Tek/Çift MBS 1": [
-        {
-          "secenek": "Tek",
-          "oran": "1.96"
-        },
-        {
-          "secenek": "Çift",
-          "oran": "1.85"
-        },
-        {
-          "secenek": "Tek",
-          "oran": "1.96"
-        },
-        {
-          "secenek": "Çift",
-          "oran": "1.85"
-        }
-      ],
-      "Toplam Gol Aralığı MBS 1": [
-        {
-          "secenek": "0-1",
-          "oran": "2.41"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "1.78"
-        },
-        {
-          "secenek": "4-5",
-          "oran": "4.81"
-        },
-        {
-          "secenek": "6+",
-          "oran": "27.50"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "2.41"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "1.78"
-        },
-        {
-          "secenek": "4-5",
-          "oran": "4.81"
-        },
-        {
-          "secenek": "6+",
-          "oran": "27.50"
-        }
-      ],
-      "Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "1.85"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "1.58"
-        },
-        {
-          "secenek": "Var",
-          "oran": "1.85"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "1.58"
-        }
-      ],
-      "İlk Yarı/Maç Sonucu MBS 1": [
-        {
-          "secenek": "1/1",
-          "oran": "3.54"
-        },
-        {
-          "secenek": "X/1",
-          "oran": "5.05"
-        },
-        {
-          "secenek": "2/1",
-          "oran": "31.70"
-        },
-        {
-          "secenek": "1/X",
-          "oran": "14.40"
-        },
-        {
-          "secenek": "X/X",
-          "oran": "4.14"
-        },
-        {
-          "secenek": "2/X",
-          "oran": "15.00"
-        },
-        {
-          "secenek": "1/2",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/2",
-          "oran": "6.65"
-        },
-        {
-          "secenek": "2/2",
-          "oran": "5.36"
-        },
-        {
-          "secenek": "1/1",
-          "oran": "3.54"
-        },
-        {
-          "secenek": "1/X",
-          "oran": "14.40"
-        },
-        {
-          "secenek": "1/2",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "X/1",
-          "oran": "5.05"
-        },
-        {
-          "secenek": "X/X",
-          "oran": "4.14"
-        },
-        {
-          "secenek": "X/2",
-          "oran": "6.65"
-        },
-        {
-          "secenek": "2/1",
-          "oran": "31.70"
-        },
-        {
-          "secenek": "2/X",
-          "oran": "15.00"
-        },
-        {
-          "secenek": "2/2",
-          "oran": "5.36"
-        }
-      ],
-      "Hnd. MS (0:2) MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "10.70"
-        },
-        {
-          "secenek": "X",
-          "oran": "5.83"
-        },
-        {
-          "secenek": "+2h",
-          "oran": "-"
-        },
-        {
-          "secenek": "1",
-          "oran": "10.70"
-        },
-        {
-          "secenek": "X",
-          "oran": "5.83"
-        },
-        {
-          "secenek": "+2h",
-          "oran": "-"
-        }
-      ],
-      "Hnd. MS (0:1) MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "4.20"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.46"
-        },
-        {
-          "secenek": "+1h",
-          "oran": "1.42"
-        },
-        {
-          "secenek": "1",
-          "oran": "4.20"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.46"
-        },
-        {
-          "secenek": "+1h",
-          "oran": "1.42"
-        }
-      ],
-      "Hnd. MS (1:0) MBS 1": [
-        {
-          "secenek": "+1h",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.42"
-        },
-        {
-          "secenek": "2",
-          "oran": "7.31"
-        },
-        {
-          "secenek": "+1h",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.42"
-        },
-        {
-          "secenek": "2",
-          "oran": "7.31"
-        }
-      ],
-      "Maç Skoru MBS 1": [
-        {
-          "secenek": "0-0",
-          "oran": "6.21"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "6.84"
-        },
-        {
-          "secenek": "0-2",
-          "oran": "13.45"
-        },
-        {
-          "secenek": "0-3",
-          "oran": "40.00"
-        },
-        {
-          "secenek": "0-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-0",
-          "oran": "5.44"
-        },
-        {
-          "secenek": "1-1",
-          "oran": "5.02"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "10.60"
-        },
-        {
-          "secenek": "1-3",
-          "oran": "31.00"
-        },
-        {
-          "secenek": "1-4",
-          "oran": "125.00"
-        },
-        {
-          "secenek": "1-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "2-0",
-          "oran": "8.44"
-        },
-        {
-          "secenek": "2-1",
-          "oran": "8.41"
-        },
-        {
-          "secenek": "2-2",
-          "oran": "15.25"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "49.00"
-        },
-        {
-          "secenek": "2-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-6",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "3-0",
-          "oran": "19.60"
-        },
-        {
-          "secenek": "3-1",
-          "oran": "19.55"
-        },
-        {
-          "secenek": "3-2",
-          "oran": "39.00"
-        },
-        {
-          "secenek": "3-3",
-          "oran": "105.00"
-        },
-        {
-          "secenek": "4-0",
-          "oran": "61.00"
-        },
-        {
-          "secenek": "4-1",
-          "oran": "61.00"
-        },
-        {
-          "secenek": "4-2",
-          "oran": "125.00"
-        },
-        {
-          "secenek": "5-0",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "5-1",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "6-0",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "Diğer",
-          "oran": "77.00"
-        },
-        {
-          "secenek": "1-0",
-          "oran": "5.44"
-        },
-        {
-          "secenek": "2-0",
-          "oran": "8.44"
-        },
-        {
-          "secenek": "2-1",
-          "oran": "8.41"
-        },
-        {
-          "secenek": "3-0",
-          "oran": "19.60"
-        },
-        {
-          "secenek": "3-1",
-          "oran": "19.55"
-        },
-        {
-          "secenek": "3-2",
-          "oran": "39.00"
-        },
-        {
-          "secenek": "4-0",
-          "oran": "61.00"
-        },
-        {
-          "secenek": "4-1",
-          "oran": "61.00"
-        },
-        {
-          "secenek": "4-2",
-          "oran": "125.00"
-        },
-        {
-          "secenek": "5-0",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "5-1",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "6-0",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-0",
-          "oran": "6.21"
-        },
-        {
-          "secenek": "1-1",
-          "oran": "5.02"
-        },
-        {
-          "secenek": "2-2",
-          "oran": "15.25"
-        },
-        {
-          "secenek": "3-3",
-          "oran": "105.00"
-        },
-        {
-          "secenek": "0-1",
-          "oran": "6.84"
-        },
-        {
-          "secenek": "0-2",
-          "oran": "13.45"
-        },
-        {
-          "secenek": "1-2",
-          "oran": "10.60"
-        },
-        {
-          "secenek": "0-3",
-          "oran": "40.00"
-        },
-        {
-          "secenek": "1-3",
-          "oran": "31.00"
-        },
-        {
-          "secenek": "2-3",
-          "oran": "49.00"
-        },
-        {
-          "secenek": "0-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-4",
-          "oran": "125.00"
-        },
-        {
-          "secenek": "2-4",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "1-5",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "0-6",
-          "oran": "130.00"
-        },
-        {
-          "secenek": "Diğer",
-          "oran": "77.00"
-        }
-      ],
-      "İlk Gol MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.72"
-        },
-        {
-          "secenek": "Olmaz",
-          "oran": "7.53"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.16"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.72"
-        },
-        {
-          "secenek": "Olmaz",
-          "oran": "7.53"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.16"
-        }
-      ],
-      "MS ve 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "6.39"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "7.32"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "8.08"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "2.87"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "4.31"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "4.43"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "6.39"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "7.32"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "8.08"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "2.87"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "4.31"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "4.43"
-        }
-      ],
-      "MS ve 3,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.55"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "3.28"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "3.53"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "8.93"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "15.75"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "15.10"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.55"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "3.28"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "3.53"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "8.93"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "15.75"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "15.10"
-        }
-      ],
-      "MS ve 4,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.43"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "2.98"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "3.37"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "17.90"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "29.20"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "2.43"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "2.98"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "3.37"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "17.90"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "35.20"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "29.20"
-        }
-      ],
-      "MS ve 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "1 ve Alt",
-          "oran": "3.93"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "3.29"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "5.40"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "3.97"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "15.85"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "6.06"
-        },
-        {
-          "secenek": "1 ve Alt",
-          "oran": "3.93"
-        },
-        {
-          "secenek": "X ve Alt",
-          "oran": "3.29"
-        },
-        {
-          "secenek": "2 ve Alt",
-          "oran": "5.40"
-        },
-        {
-          "secenek": "1 ve Üst",
-          "oran": "3.97"
-        },
-        {
-          "secenek": "X ve Üst",
-          "oran": "15.85"
-        },
-        {
-          "secenek": "2 ve Üst",
-          "oran": "6.06"
-        }
-      ],
-      "1. Yarı Deplasman 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.59"
-        },
-        {
-          "secenek": "12+",
-          "oran": "-"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.52"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.59"
-        }
-      ],
-      "Ev Sahibi 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.92"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.20"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.92"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.20"
-        }
-      ],
-      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.87"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "5.87"
-        }
-      ],
-      "Ev Sahibi 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.33"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.35"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.33"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.35"
-        }
-      ],
-      "En Çok Gol Olacak Yarı MBS 1": [
-        {
-          "secenek": "1. Yarı",
-          "oran": "3.01"
-        },
-        {
-          "secenek": "Eşit",
-          "oran": "2.91"
-        },
-        {
-          "secenek": "2. Yarı",
-          "oran": "2.00"
-        },
-        {
-          "secenek": "1. Yarı",
-          "oran": "3.01"
-        },
-        {
-          "secenek": "Eşit",
-          "oran": "2.91"
-        },
-        {
-          "secenek": "2. Yarı",
-          "oran": "2.00"
-        }
-      ],
-      "Deplasman 2,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "9.30"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "-"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "9.30"
-        }
-      ],
-      "Deplasman 1,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.35"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "3.35"
-        }
-      ],
-      "Deplasman 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "2.28"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.36"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "2.28"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "1.36"
-        }
-      ],
-      "1. Yarı Karşılıklı Gol MBS 1": [
-        {
-          "secenek": "Var",
-          "oran": "5.40"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Var",
-          "oran": "5.40"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        }
-      ],
-      "Ev Sahibi İki Yarıyı da Kazanır MBS 1": [
-        {
-          "secenek": "Evet",
-          "oran": "7.73"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Evet",
-          "oran": "7.73"
-        }
-      ],
-      "Deplasman İki Yarıyı da Kazanır MBS 1": [
-        {
-          "secenek": "Evet",
-          "oran": "12.65"
-        },
-        {
-          "secenek": "Yok",
-          "oran": "-"
-        },
-        {
-          "secenek": "Evet",
-          "oran": "12.65"
-        }
-      ],
-      "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
-        {
-          "secenek": "Alt",
-          "oran": "1.68"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.20"
-        },
-        {
-          "secenek": "Alt",
-          "oran": "1.68"
-        },
-        {
-          "secenek": "Üst",
-          "oran": "2.20"
-        }
-      ]
-    },
     "ektkruntlzz5dv1fytlt5u6ms": {
       "Maç Sonucu MBS 1": [
         {
@@ -10752,6 +8384,2366 @@
         {
           "secenek": "Hayır",
           "oran": "-"
+        }
+      ]
+    },
+    "10rxmu1lmbsyupvva42tjct90": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "2.25"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.04"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.17"
+        },
+        {
+          "secenek": "1",
+          "oran": "2.25"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.04"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.17"
+        }
+      ],
+      "Çifte Şans MBS 1": [
+        {
+          "secenek": "1-X",
+          "oran": "1.39"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.42"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "1.64"
+        },
+        {
+          "secenek": "1-X",
+          "oran": "1.39"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.42"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "1.64"
+        }
+      ],
+      "0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "7.10"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "7.10"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        }
+      ],
+      "4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "9.30"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "9.30"
+        }
+      ],
+      "2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.35"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.35"
+        }
+      ],
+      "1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.48"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.30"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.48"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.30"
+        }
+      ],
+      "3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.27"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.37"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.27"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.37"
+        }
+      ],
+      "1. Yarı 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "8.97"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "8.97"
+        }
+      ],
+      "1. Yarı 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.43"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.57"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.43"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.57"
+        }
+      ],
+      "1. Yarı 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.33"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.33"
+        }
+      ],
+      "1. Yarı Çifte Şans MBS 1": [
+        {
+          "secenek": "1-X",
+          "oran": "1.10"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.58"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "1.23"
+        },
+        {
+          "secenek": "1-X",
+          "oran": "1.10"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.58"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "1.23"
+        }
+      ],
+      "1. Yarı Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "2.98"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.00"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.98"
+        },
+        {
+          "secenek": "1",
+          "oran": "2.98"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.00"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.98"
+        }
+      ],
+      "2. Yarı Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "2.47"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.15"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.26"
+        },
+        {
+          "secenek": "1",
+          "oran": "2.47"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.15"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.26"
+        }
+      ],
+      "Tek/Çift MBS 1": [
+        {
+          "secenek": "Tek",
+          "oran": "1.96"
+        },
+        {
+          "secenek": "Çift",
+          "oran": "1.85"
+        },
+        {
+          "secenek": "Tek",
+          "oran": "1.96"
+        },
+        {
+          "secenek": "Çift",
+          "oran": "1.85"
+        }
+      ],
+      "Toplam Gol Aralığı MBS 1": [
+        {
+          "secenek": "0-1",
+          "oran": "2.41"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "1.78"
+        },
+        {
+          "secenek": "4-5",
+          "oran": "4.81"
+        },
+        {
+          "secenek": "6+",
+          "oran": "27.50"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "2.41"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "1.78"
+        },
+        {
+          "secenek": "4-5",
+          "oran": "4.81"
+        },
+        {
+          "secenek": "6+",
+          "oran": "27.50"
+        }
+      ],
+      "Karşılıklı Gol MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "1.85"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "1.58"
+        },
+        {
+          "secenek": "Var",
+          "oran": "1.85"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "1.58"
+        }
+      ],
+      "İlk Yarı/Maç Sonucu MBS 1": [
+        {
+          "secenek": "1/1",
+          "oran": "3.54"
+        },
+        {
+          "secenek": "X/1",
+          "oran": "5.05"
+        },
+        {
+          "secenek": "2/1",
+          "oran": "31.70"
+        },
+        {
+          "secenek": "1/X",
+          "oran": "14.40"
+        },
+        {
+          "secenek": "X/X",
+          "oran": "4.14"
+        },
+        {
+          "secenek": "2/X",
+          "oran": "15.00"
+        },
+        {
+          "secenek": "1/2",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/2",
+          "oran": "6.65"
+        },
+        {
+          "secenek": "2/2",
+          "oran": "5.36"
+        },
+        {
+          "secenek": "1/1",
+          "oran": "3.54"
+        },
+        {
+          "secenek": "1/X",
+          "oran": "14.40"
+        },
+        {
+          "secenek": "1/2",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/1",
+          "oran": "5.05"
+        },
+        {
+          "secenek": "X/X",
+          "oran": "4.14"
+        },
+        {
+          "secenek": "X/2",
+          "oran": "6.65"
+        },
+        {
+          "secenek": "2/1",
+          "oran": "31.70"
+        },
+        {
+          "secenek": "2/X",
+          "oran": "15.00"
+        },
+        {
+          "secenek": "2/2",
+          "oran": "5.36"
+        }
+      ],
+      "Hnd. MS (0:2) MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "10.70"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.83"
+        },
+        {
+          "secenek": "+2h",
+          "oran": "-"
+        },
+        {
+          "secenek": "1",
+          "oran": "10.70"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.83"
+        },
+        {
+          "secenek": "+2h",
+          "oran": "-"
+        }
+      ],
+      "Hnd. MS (0:1) MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "4.20"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.46"
+        },
+        {
+          "secenek": "+1h",
+          "oran": "1.42"
+        },
+        {
+          "secenek": "1",
+          "oran": "4.20"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.46"
+        },
+        {
+          "secenek": "+1h",
+          "oran": "1.42"
+        }
+      ],
+      "Hnd. MS (1:0) MBS 1": [
+        {
+          "secenek": "+1h",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.42"
+        },
+        {
+          "secenek": "2",
+          "oran": "7.31"
+        },
+        {
+          "secenek": "+1h",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.42"
+        },
+        {
+          "secenek": "2",
+          "oran": "7.31"
+        }
+      ],
+      "Maç Skoru MBS 1": [
+        {
+          "secenek": "0-0",
+          "oran": "6.21"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "6.84"
+        },
+        {
+          "secenek": "0-2",
+          "oran": "13.45"
+        },
+        {
+          "secenek": "0-3",
+          "oran": "40.00"
+        },
+        {
+          "secenek": "0-4",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "0-5",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "1-0",
+          "oran": "5.44"
+        },
+        {
+          "secenek": "1-1",
+          "oran": "5.02"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "10.60"
+        },
+        {
+          "secenek": "1-3",
+          "oran": "31.00"
+        },
+        {
+          "secenek": "1-4",
+          "oran": "125.00"
+        },
+        {
+          "secenek": "1-5",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "2-0",
+          "oran": "8.44"
+        },
+        {
+          "secenek": "2-1",
+          "oran": "8.41"
+        },
+        {
+          "secenek": "2-2",
+          "oran": "15.25"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "49.00"
+        },
+        {
+          "secenek": "2-4",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "0-6",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "3-0",
+          "oran": "19.60"
+        },
+        {
+          "secenek": "3-1",
+          "oran": "19.55"
+        },
+        {
+          "secenek": "3-2",
+          "oran": "39.00"
+        },
+        {
+          "secenek": "3-3",
+          "oran": "105.00"
+        },
+        {
+          "secenek": "4-0",
+          "oran": "61.00"
+        },
+        {
+          "secenek": "4-1",
+          "oran": "61.00"
+        },
+        {
+          "secenek": "4-2",
+          "oran": "125.00"
+        },
+        {
+          "secenek": "5-0",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "5-1",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "6-0",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "Diğer",
+          "oran": "77.00"
+        },
+        {
+          "secenek": "1-0",
+          "oran": "5.44"
+        },
+        {
+          "secenek": "2-0",
+          "oran": "8.44"
+        },
+        {
+          "secenek": "2-1",
+          "oran": "8.41"
+        },
+        {
+          "secenek": "3-0",
+          "oran": "19.60"
+        },
+        {
+          "secenek": "3-1",
+          "oran": "19.55"
+        },
+        {
+          "secenek": "3-2",
+          "oran": "39.00"
+        },
+        {
+          "secenek": "4-0",
+          "oran": "61.00"
+        },
+        {
+          "secenek": "4-1",
+          "oran": "61.00"
+        },
+        {
+          "secenek": "4-2",
+          "oran": "125.00"
+        },
+        {
+          "secenek": "5-0",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "5-1",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "6-0",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "0-0",
+          "oran": "6.21"
+        },
+        {
+          "secenek": "1-1",
+          "oran": "5.02"
+        },
+        {
+          "secenek": "2-2",
+          "oran": "15.25"
+        },
+        {
+          "secenek": "3-3",
+          "oran": "105.00"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "6.84"
+        },
+        {
+          "secenek": "0-2",
+          "oran": "13.45"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "10.60"
+        },
+        {
+          "secenek": "0-3",
+          "oran": "40.00"
+        },
+        {
+          "secenek": "1-3",
+          "oran": "31.00"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "49.00"
+        },
+        {
+          "secenek": "0-4",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "1-4",
+          "oran": "125.00"
+        },
+        {
+          "secenek": "2-4",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "0-5",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "1-5",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "0-6",
+          "oran": "130.00"
+        },
+        {
+          "secenek": "Diğer",
+          "oran": "77.00"
+        }
+      ],
+      "İlk Gol MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.72"
+        },
+        {
+          "secenek": "Olmaz",
+          "oran": "7.53"
+        },
+        {
+          "secenek": "2",
+          "oran": "2.16"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.72"
+        },
+        {
+          "secenek": "Olmaz",
+          "oran": "7.53"
+        },
+        {
+          "secenek": "2",
+          "oran": "2.16"
+        }
+      ],
+      "MS ve 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "6.39"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "7.32"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "8.08"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "2.87"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "4.31"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "4.43"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "6.39"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "7.32"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "8.08"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "2.87"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "4.31"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "4.43"
+        }
+      ],
+      "MS ve 3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "2.55"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "3.28"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "3.53"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "8.93"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "15.75"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "15.10"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "2.55"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "3.28"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "3.53"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "8.93"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "15.75"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "15.10"
+        }
+      ],
+      "MS ve 4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "2.43"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "2.98"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "3.37"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "17.90"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "29.20"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "2.43"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "2.98"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "3.37"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "17.90"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "29.20"
+        }
+      ],
+      "MS ve 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "3.93"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "3.29"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "5.40"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "3.97"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "15.85"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "6.06"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "3.93"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "3.29"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "5.40"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "3.97"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "15.85"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "6.06"
+        }
+      ],
+      "1. Yarı Deplasman 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.52"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.59"
+        },
+        {
+          "secenek": "12+",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.52"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.59"
+        }
+      ],
+      "Ev Sahibi 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.92"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.20"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.92"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.20"
+        }
+      ],
+      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.87"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.87"
+        }
+      ],
+      "Ev Sahibi 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.33"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.35"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.33"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.35"
+        }
+      ],
+      "En Çok Gol Olacak Yarı MBS 1": [
+        {
+          "secenek": "1. Yarı",
+          "oran": "3.01"
+        },
+        {
+          "secenek": "Eşit",
+          "oran": "2.91"
+        },
+        {
+          "secenek": "2. Yarı",
+          "oran": "2.00"
+        },
+        {
+          "secenek": "1. Yarı",
+          "oran": "3.01"
+        },
+        {
+          "secenek": "Eşit",
+          "oran": "2.91"
+        },
+        {
+          "secenek": "2. Yarı",
+          "oran": "2.00"
+        }
+      ],
+      "Deplasman 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "9.30"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "9.30"
+        }
+      ],
+      "Deplasman 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.35"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.35"
+        }
+      ],
+      "Deplasman 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.36"
+        }
+      ],
+      "1. Yarı Karşılıklı Gol MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "5.40"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        },
+        {
+          "secenek": "Var",
+          "oran": "5.40"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        }
+      ],
+      "Ev Sahibi İki Yarıyı da Kazanır MBS 1": [
+        {
+          "secenek": "Evet",
+          "oran": "7.73"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        },
+        {
+          "secenek": "Evet",
+          "oran": "7.73"
+        }
+      ],
+      "Deplasman İki Yarıyı da Kazanır MBS 1": [
+        {
+          "secenek": "Evet",
+          "oran": "12.65"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        },
+        {
+          "secenek": "Evet",
+          "oran": "12.65"
+        }
+      ],
+      "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.68"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.20"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.68"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.20"
+        }
+      ]
+    },
+    "11fmibp5gnpgoadu016cdshsk": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.15"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.08"
+        },
+        {
+          "secenek": "2",
+          "oran": "9.14"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.15"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.08"
+        },
+        {
+          "secenek": "2",
+          "oran": "9.14"
+        }
+      ],
+      "Çifte Şans MBS 1": [
+        {
+          "secenek": "1-X",
+          "oran": "-"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "-"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "3.30"
+        },
+        {
+          "secenek": "1-X",
+          "oran": "-"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "-"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "3.30"
+        }
+      ],
+      "0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "12.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "12.60"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "-"
+        }
+      ],
+      "1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "4.11"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.29"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "4.11"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.29"
+        }
+      ],
+      "4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.74"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.74"
+        }
+      ],
+      "2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.15"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.71"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.15"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.71"
+        }
+      ],
+      "3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.30"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.45"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.30"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.45"
+        }
+      ],
+      "1. Yarı 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.43"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.43"
+        }
+      ],
+      "1. Yarı 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "3.42"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "3.42"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.36"
+        }
+      ],
+      "1. Yarı 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.40"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.17"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.40"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.17"
+        }
+      ],
+      "1. Yarı Çifte Şans MBS 1": [
+        {
+          "secenek": "1-X",
+          "oran": "-"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.29"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "1.86"
+        },
+        {
+          "secenek": "1-X",
+          "oran": "-"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "1.29"
+        },
+        {
+          "secenek": "X-2",
+          "oran": "1.86"
+        }
+      ],
+      "1. Yarı Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.74"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.67"
+        },
+        {
+          "secenek": "2",
+          "oran": "8.43"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.74"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.67"
+        },
+        {
+          "secenek": "2",
+          "oran": "8.43"
+        }
+      ],
+      "2. Yarı Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.65"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.03"
+        },
+        {
+          "secenek": "2",
+          "oran": "7.58"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.65"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.03"
+        },
+        {
+          "secenek": "2",
+          "oran": "7.58"
+        }
+      ],
+      "Tek/Çift MBS 1": [
+        {
+          "secenek": "Tek",
+          "oran": "1.90"
+        },
+        {
+          "secenek": "Çift",
+          "oran": "1.90"
+        },
+        {
+          "secenek": "Tek",
+          "oran": "1.90"
+        },
+        {
+          "secenek": "Çift",
+          "oran": "1.90"
+        }
+      ],
+      "Toplam Gol Aralığı MBS 1": [
+        {
+          "secenek": "0-1",
+          "oran": "4.09"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "2.04"
+        },
+        {
+          "secenek": "4-5",
+          "oran": "3.30"
+        },
+        {
+          "secenek": "6+",
+          "oran": "10.25"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "4.09"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "2.04"
+        },
+        {
+          "secenek": "4-5",
+          "oran": "3.30"
+        },
+        {
+          "secenek": "6+",
+          "oran": "10.25"
+        }
+      ],
+      "Karşılıklı Gol MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "1.97"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "1.50"
+        },
+        {
+          "secenek": "Var",
+          "oran": "1.97"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "1.50"
+        }
+      ],
+      "İlk Yarı/Maç Sonucu MBS 1": [
+        {
+          "secenek": "1/1",
+          "oran": "1.75"
+        },
+        {
+          "secenek": "X/1",
+          "oran": "3.93"
+        },
+        {
+          "secenek": "2/1",
+          "oran": "24.25"
+        },
+        {
+          "secenek": "1/X",
+          "oran": "21.85"
+        },
+        {
+          "secenek": "X/X",
+          "oran": "7.37"
+        },
+        {
+          "secenek": "2/X",
+          "oran": "25.70"
+        },
+        {
+          "secenek": "1/2",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/2",
+          "oran": "18.75"
+        },
+        {
+          "secenek": "2/2",
+          "oran": "17.05"
+        },
+        {
+          "secenek": "1/1",
+          "oran": "1.75"
+        },
+        {
+          "secenek": "1/X",
+          "oran": "21.85"
+        },
+        {
+          "secenek": "1/2",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "X/1",
+          "oran": "3.93"
+        },
+        {
+          "secenek": "X/X",
+          "oran": "7.37"
+        },
+        {
+          "secenek": "X/2",
+          "oran": "18.75"
+        },
+        {
+          "secenek": "2/1",
+          "oran": "24.25"
+        },
+        {
+          "secenek": "2/X",
+          "oran": "25.70"
+        },
+        {
+          "secenek": "2/2",
+          "oran": "17.05"
+        }
+      ],
+      "Hnd. MS (0:3) MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "5.73"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.17"
+        },
+        {
+          "secenek": "+3h",
+          "oran": "1.37"
+        },
+        {
+          "secenek": "1",
+          "oran": "5.73"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.17"
+        },
+        {
+          "secenek": "+3h",
+          "oran": "1.37"
+        }
+      ],
+      "Hnd. MS (0:2) MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "2.77"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.59"
+        },
+        {
+          "secenek": "+2h",
+          "oran": "1.68"
+        },
+        {
+          "secenek": "1",
+          "oran": "2.77"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.59"
+        },
+        {
+          "secenek": "+2h",
+          "oran": "1.68"
+        }
+      ],
+      "Hnd. MS (0:1) MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.61"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.37"
+        },
+        {
+          "secenek": "+1h",
+          "oran": "3.15"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.61"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.37"
+        },
+        {
+          "secenek": "+1h",
+          "oran": "3.15"
+        }
+      ],
+      "Maç Skoru MBS 1": [
+        {
+          "secenek": "0-0",
+          "oran": "12.85"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "19.95"
+        },
+        {
+          "secenek": "0-2",
+          "oran": "60.20"
+        },
+        {
+          "secenek": "0-3",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-4",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-5",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "1-0",
+          "oran": "5.97"
+        },
+        {
+          "secenek": "1-1",
+          "oran": "9.13"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "26.20"
+        },
+        {
+          "secenek": "1-3",
+          "oran": "120.20"
+        },
+        {
+          "secenek": "1-4",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "1-5",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "2-0",
+          "oran": "5.24"
+        },
+        {
+          "secenek": "2-1",
+          "oran": "7.80"
+        },
+        {
+          "secenek": "2-2",
+          "oran": "23.85"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "105.20"
+        },
+        {
+          "secenek": "2-4",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-6",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "3-0",
+          "oran": "6.71"
+        },
+        {
+          "secenek": "3-1",
+          "oran": "10.04"
+        },
+        {
+          "secenek": "3-2",
+          "oran": "29.70"
+        },
+        {
+          "secenek": "3-3",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "4-0",
+          "oran": "11.35"
+        },
+        {
+          "secenek": "4-1",
+          "oran": "17.20"
+        },
+        {
+          "secenek": "4-2",
+          "oran": "52.20"
+        },
+        {
+          "secenek": "5-0",
+          "oran": "24.25"
+        },
+        {
+          "secenek": "5-1",
+          "oran": "36.70"
+        },
+        {
+          "secenek": "6-0",
+          "oran": "62.20"
+        },
+        {
+          "secenek": "Diğer",
+          "oran": "21.75"
+        },
+        {
+          "secenek": "1-0",
+          "oran": "5.97"
+        },
+        {
+          "secenek": "2-0",
+          "oran": "5.24"
+        },
+        {
+          "secenek": "2-1",
+          "oran": "7.80"
+        },
+        {
+          "secenek": "3-0",
+          "oran": "6.71"
+        },
+        {
+          "secenek": "3-1",
+          "oran": "10.04"
+        },
+        {
+          "secenek": "3-2",
+          "oran": "29.70"
+        },
+        {
+          "secenek": "4-0",
+          "oran": "11.35"
+        },
+        {
+          "secenek": "4-1",
+          "oran": "17.20"
+        },
+        {
+          "secenek": "4-2",
+          "oran": "52.20"
+        },
+        {
+          "secenek": "5-0",
+          "oran": "24.25"
+        },
+        {
+          "secenek": "5-1",
+          "oran": "36.70"
+        },
+        {
+          "secenek": "6-0",
+          "oran": "62.20"
+        },
+        {
+          "secenek": "0-0",
+          "oran": "12.85"
+        },
+        {
+          "secenek": "1-1",
+          "oran": "9.13"
+        },
+        {
+          "secenek": "2-2",
+          "oran": "23.85"
+        },
+        {
+          "secenek": "3-3",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-1",
+          "oran": "19.95"
+        },
+        {
+          "secenek": "0-2",
+          "oran": "60.20"
+        },
+        {
+          "secenek": "1-2",
+          "oran": "26.20"
+        },
+        {
+          "secenek": "0-3",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "1-3",
+          "oran": "120.20"
+        },
+        {
+          "secenek": "2-3",
+          "oran": "105.20"
+        },
+        {
+          "secenek": "0-4",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "1-4",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "2-4",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-5",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "1-5",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "0-6",
+          "oran": "130.20"
+        },
+        {
+          "secenek": "Diğer",
+          "oran": "21.75"
+        }
+      ],
+      "İlk Gol MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Olmaz",
+          "oran": "15.45"
+        },
+        {
+          "secenek": "2",
+          "oran": "4.16"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.36"
+        },
+        {
+          "secenek": "Olmaz",
+          "oran": "15.45"
+        },
+        {
+          "secenek": "2",
+          "oran": "4.16"
+        }
+      ],
+      "MS ve 4,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "1.43"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "5.01"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "9.93"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "4.91"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "1.43"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "5.01"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "9.93"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "4.91"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "35.00"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "35.00"
+        }
+      ],
+      "MS ve 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "6.56"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "14.55"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "22.75"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "1.34"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "7.13"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "14.20"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "6.56"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "14.55"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "22.75"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "1.34"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "7.13"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "14.20"
+        }
+      ],
+      "MS ve 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "3.14"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "6.15"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "17.50"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "1.71"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "23.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "18.10"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "3.14"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "6.15"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "17.50"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "1.71"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "23.20"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "18.10"
+        }
+      ],
+      "MS ve 3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "1 ve Alt",
+          "oran": "2.03"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "6.36"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "11.05"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "2.99"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "23.40"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "35.20"
+        },
+        {
+          "secenek": "1 ve Alt",
+          "oran": "2.03"
+        },
+        {
+          "secenek": "X ve Alt",
+          "oran": "6.36"
+        },
+        {
+          "secenek": "2 ve Alt",
+          "oran": "11.05"
+        },
+        {
+          "secenek": "1 ve Üst",
+          "oran": "2.99"
+        },
+        {
+          "secenek": "X ve Üst",
+          "oran": "23.40"
+        },
+        {
+          "secenek": "2 ve Üst",
+          "oran": "35.20"
+        }
+      ],
+      "1. Yarı Deplasman 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.35"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.48"
+        },
+        {
+          "secenek": "12+",
+          "oran": "-"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.35"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "3.48"
+        }
+      ],
+      "Ev Sahibi 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.44"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.08"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.44"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "2.08"
+        }
+      ],
+      "Ev Sahibi 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.53"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.28"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.53"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.28"
+        }
+      ],
+      "Ev Sahibi 3,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.08"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.04"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.08"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "4.04"
+        }
+      ],
+      "En Çok Gol Olacak Yarı MBS 1": [
+        {
+          "secenek": "1. Yarı",
+          "oran": "2.67"
+        },
+        {
+          "secenek": "Eşit",
+          "oran": "3.43"
+        },
+        {
+          "secenek": "2. Yarı",
+          "oran": "1.96"
+        },
+        {
+          "secenek": "1. Yarı",
+          "oran": "2.67"
+        },
+        {
+          "secenek": "Eşit",
+          "oran": "3.43"
+        },
+        {
+          "secenek": "2. Yarı",
+          "oran": "1.96"
+        }
+      ],
+      "Deplasman 2,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "17.50"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "17.50"
+        }
+      ],
+      "Deplasman 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "1.83"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.98"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "1.83"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.98"
+        }
+      ],
+      "Deplasman 1,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.65"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "-"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "5.65"
+        }
+      ],
+      "Ev Sahibi İki Yarıyı da Kazanır MBS 1": [
+        {
+          "secenek": "Evet",
+          "oran": "2.57"
+        },
+        {
+          "secenek": "Hayır",
+          "oran": "1.27"
+        },
+        {
+          "secenek": "Evet",
+          "oran": "2.57"
+        },
+        {
+          "secenek": "Hayır",
+          "oran": "1.27"
+        }
+      ],
+      "1. Yarı Karşılıklı Gol MBS 1": [
+        {
+          "secenek": "Var",
+          "oran": "4.90"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        },
+        {
+          "secenek": "Var",
+          "oran": "4.90"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        }
+      ],
+      "1. Yarı Ev Sahibi 0,5 Alt/Üst MBS 1": [
+        {
+          "secenek": "Alt",
+          "oran": "2.43"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.30"
+        },
+        {
+          "secenek": "Alt",
+          "oran": "2.43"
+        },
+        {
+          "secenek": "Üst",
+          "oran": "1.30"
+        }
+      ],
+      "Deplasman İki Yarıyı da Kazanır MBS 1": [
+        {
+          "secenek": "Evet",
+          "oran": "17.70"
+        },
+        {
+          "secenek": "Yok",
+          "oran": "-"
+        },
+        {
+          "secenek": "Evet",
+          "oran": "17.70"
         }
       ]
     },
