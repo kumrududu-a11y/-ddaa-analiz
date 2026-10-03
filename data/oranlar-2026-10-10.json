@@ -1,59 +1,31 @@
 {
   "date": "2026-10-10",
   "odds": {
-    "cn2vewi49kl1qhkx0311y2pzo": {
+    "7oh2rfcpl6bt8lk74vi7eaot0": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "3.23"
+          "oran": "1.20"
         },
         {
           "secenek": "X",
-          "oran": "3.32"
+          "oran": "5.38"
         },
         {
           "secenek": "2",
-          "oran": "1.77"
+          "oran": "6.41"
         },
         {
           "secenek": "1",
-          "oran": "3.23"
+          "oran": "1.20"
         },
         {
           "secenek": "X",
-          "oran": "3.32"
+          "oran": "5.38"
         },
         {
           "secenek": "2",
-          "oran": "1.77"
-        }
-      ]
-    },
-    "cl738gahh2osr45rkkmm2gx78": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.82"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.97"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.46"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.82"
-        },
-        {
-          "secenek": "X",
-          "oran": "2.97"
-        },
-        {
-          "secenek": "2",
-          "oran": "3.46"
+          "oran": "6.41"
         }
       ]
     },
@@ -85,31 +57,31 @@
         }
       ]
     },
-    "7oh2rfcpl6bt8lk74vi7eaot0": {
+    "cn2vewi49kl1qhkx0311y2pzo": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.20"
+          "oran": "3.23"
         },
         {
           "secenek": "X",
-          "oran": "5.38"
+          "oran": "3.32"
         },
         {
           "secenek": "2",
-          "oran": "6.41"
+          "oran": "1.77"
         },
         {
           "secenek": "1",
-          "oran": "1.20"
+          "oran": "3.23"
         },
         {
           "secenek": "X",
-          "oran": "5.38"
+          "oran": "3.32"
         },
         {
           "secenek": "2",
-          "oran": "6.41"
+          "oran": "1.77"
         }
       ]
     },
@@ -141,6 +113,34 @@
         }
       ]
     },
+    "4g75p1zyxl4j8c7wmeo4ezor8": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.55"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.71"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.84"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.55"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.71"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.84"
+        }
+      ]
+    },
     "cltokboun5k4k9nxr3ro0p89g": {
       "Maç Sonucu MBS 1": [
         {
@@ -166,6 +166,34 @@
         {
           "secenek": "2",
           "oran": "2.24"
+        }
+      ]
+    },
+    "cl738gahh2osr45rkkmm2gx78": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.82"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.97"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.46"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.82"
+        },
+        {
+          "secenek": "X",
+          "oran": "2.97"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.46"
         }
       ]
     },
