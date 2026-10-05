@@ -29,34 +29,6 @@
         }
       ]
     },
-    "ckkmv6s0elwnk11lvz6cmjuac": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "2.36"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.04"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.35"
-        },
-        {
-          "secenek": "1",
-          "oran": "2.36"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.04"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.35"
-        }
-      ]
-    },
     "cmritj6je4qlkxtf25mn1qdxw": {
       "Maç Sonucu MBS 1": [
         {
@@ -85,31 +57,31 @@
         }
       ]
     },
-    "4funfoy0bxp3y7thhhbxnbk7o": {
+    "ckkmv6s0elwnk11lvz6cmjuac": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "2.28"
+          "oran": "2.36"
         },
         {
           "secenek": "X",
-          "oran": "3.32"
+          "oran": "3.04"
         },
         {
           "secenek": "2",
-          "oran": "2.28"
+          "oran": "2.35"
         },
         {
           "secenek": "1",
-          "oran": "2.28"
+          "oran": "2.36"
         },
         {
           "secenek": "X",
-          "oran": "3.32"
+          "oran": "3.04"
         },
         {
           "secenek": "2",
-          "oran": "2.28"
+          "oran": "2.35"
         }
       ]
     },
@@ -138,6 +110,34 @@
         {
           "secenek": "2",
           "oran": "2.32"
+        }
+      ]
+    },
+    "4funfoy0bxp3y7thhhbxnbk7o": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.32"
+        },
+        {
+          "secenek": "2",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "1",
+          "oran": "2.28"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.32"
+        },
+        {
+          "secenek": "2",
+          "oran": "2.28"
         }
       ]
     }
