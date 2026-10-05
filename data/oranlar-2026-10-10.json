@@ -1,31 +1,31 @@
 {
   "date": "2026-10-10",
   "odds": {
-    "cn2vewi49kl1qhkx0311y2pzo": {
+    "cltokboun5k4k9nxr3ro0p89g": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "3.23"
+          "oran": "2.41"
         },
         {
           "secenek": "X",
-          "oran": "3.32"
+          "oran": "3.18"
         },
         {
           "secenek": "2",
-          "oran": "1.77"
+          "oran": "2.24"
         },
         {
           "secenek": "1",
-          "oran": "3.23"
+          "oran": "2.41"
         },
         {
           "secenek": "X",
-          "oran": "3.32"
+          "oran": "3.18"
         },
         {
           "secenek": "2",
-          "oran": "1.77"
+          "oran": "2.24"
         }
       ]
     },
@@ -57,31 +57,59 @@
         }
       ]
     },
-    "7oh2rfcpl6bt8lk74vi7eaot0": {
+    "cliahdanvjs9nziidofg11ces": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.20"
+          "oran": "4.11"
         },
         {
           "secenek": "X",
-          "oran": "5.38"
+          "oran": "3.57"
         },
         {
           "secenek": "2",
-          "oran": "6.41"
+          "oran": "1.53"
         },
         {
           "secenek": "1",
-          "oran": "1.20"
+          "oran": "4.11"
         },
         {
           "secenek": "X",
-          "oran": "5.38"
+          "oran": "3.57"
         },
         {
           "secenek": "2",
-          "oran": "6.41"
+          "oran": "1.53"
+        }
+      ]
+    },
+    "cn2vewi49kl1qhkx0311y2pzo": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "3.23"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.32"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.77"
+        },
+        {
+          "secenek": "1",
+          "oran": "3.23"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.32"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.77"
         }
       ]
     },
@@ -113,59 +141,87 @@
         }
       ]
     },
-    "cliahdanvjs9nziidofg11ces": {
+    "5eqn6b8fagc6dagu43ra9r2fo": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "4.11"
+          "oran": "1.37"
         },
         {
           "secenek": "X",
-          "oran": "3.57"
+          "oran": "4.38"
         },
         {
           "secenek": "2",
-          "oran": "1.53"
+          "oran": "4.52"
         },
         {
           "secenek": "1",
-          "oran": "4.11"
+          "oran": "1.37"
         },
         {
           "secenek": "X",
-          "oran": "3.57"
+          "oran": "4.38"
         },
         {
           "secenek": "2",
-          "oran": "1.53"
+          "oran": "4.52"
         }
       ]
     },
-    "cltokboun5k4k9nxr3ro0p89g": {
+    "4g75p1zyxl4j8c7wmeo4ezor8": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "2.41"
+          "oran": "1.55"
         },
         {
           "secenek": "X",
-          "oran": "3.18"
+          "oran": "3.71"
         },
         {
           "secenek": "2",
-          "oran": "2.24"
+          "oran": "3.84"
         },
         {
           "secenek": "1",
-          "oran": "2.41"
+          "oran": "1.55"
         },
         {
           "secenek": "X",
-          "oran": "3.18"
+          "oran": "3.71"
         },
         {
           "secenek": "2",
-          "oran": "2.24"
+          "oran": "3.84"
+        }
+      ]
+    },
+    "7oh2rfcpl6bt8lk74vi7eaot0": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.20"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.38"
+        },
+        {
+          "secenek": "2",
+          "oran": "6.41"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.20"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.38"
+        },
+        {
+          "secenek": "2",
+          "oran": "6.41"
         }
       ]
     }
