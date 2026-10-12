@@ -1,59 +1,31 @@
 {
   "date": "2026-10-17",
   "odds": {
-    "cpwrhwahzyljgxc6jc9gadl3o": {
+    "coc42itxw56irq6mzvxku8tn8": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.77"
+          "oran": "1.66"
         },
         {
           "secenek": "X",
-          "oran": "3.28"
+          "oran": "3.46"
         },
         {
           "secenek": "2",
-          "oran": "2.80"
+          "oran": "3.15"
         },
         {
           "secenek": "1",
-          "oran": "1.77"
+          "oran": "1.66"
         },
         {
           "secenek": "X",
-          "oran": "3.28"
+          "oran": "3.46"
         },
         {
           "secenek": "2",
-          "oran": "2.80"
-        }
-      ]
-    },
-    "4h8foczvol1zhy7usmy11maz8": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "2.48"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.33"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.11"
-        },
-        {
-          "secenek": "1",
-          "oran": "2.48"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.33"
-        },
-        {
-          "secenek": "2",
-          "oran": "2.11"
+          "oran": "3.15"
         }
       ]
     },
@@ -85,59 +57,59 @@
         }
       ]
     },
-    "coc42itxw56irq6mzvxku8tn8": {
+    "4h8foczvol1zhy7usmy11maz8": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "1.66"
+          "oran": "2.48"
         },
         {
           "secenek": "X",
-          "oran": "3.46"
+          "oran": "3.33"
         },
         {
           "secenek": "2",
-          "oran": "3.15"
+          "oran": "2.11"
         },
         {
           "secenek": "1",
-          "oran": "1.66"
+          "oran": "2.48"
         },
         {
           "secenek": "X",
-          "oran": "3.46"
+          "oran": "3.33"
         },
         {
           "secenek": "2",
-          "oran": "3.15"
+          "oran": "2.11"
         }
       ]
     },
-    "cone4ul44nzu9h6v48ehif0gk": {
+    "cpa8a44mlpbzxvjl8bzbwneok": {
       "Maç Sonucu MBS 1": [
         {
           "secenek": "1",
-          "oran": "7.09"
+          "oran": "1.14"
         },
         {
           "secenek": "X",
-          "oran": "3.94"
+          "oran": "4.38"
         },
         {
           "secenek": "2",
-          "oran": "1.20"
+          "oran": "8.25"
         },
         {
           "secenek": "1",
-          "oran": "7.09"
+          "oran": "1.14"
         },
         {
           "secenek": "X",
-          "oran": "3.94"
+          "oran": "4.38"
         },
         {
           "secenek": "2",
-          "oran": "1.20"
+          "oran": "8.25"
         }
       ]
     },
@@ -465,6 +437,34 @@
         }
       ]
     },
+    "cone4ul44nzu9h6v48ehif0gk": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "7.09"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.94"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.20"
+        },
+        {
+          "secenek": "1",
+          "oran": "7.09"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.94"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.20"
+        }
+      ]
+    },
     "4hxbc4v9rbvzofyoku22ebbpw": {
       "Maç Sonucu MBS 1": [
         {
@@ -490,34 +490,6 @@
         {
           "secenek": "2",
           "oran": "2.05"
-        }
-      ]
-    },
-    "cpa8a44mlpbzxvjl8bzbwneok": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.14"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.38"
-        },
-        {
-          "secenek": "2",
-          "oran": "8.25"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.14"
-        },
-        {
-          "secenek": "X",
-          "oran": "4.38"
-        },
-        {
-          "secenek": "2",
-          "oran": "8.25"
         }
       ]
     },
@@ -842,6 +814,34 @@
         {
           "secenek": "Üst",
           "oran": "1.78"
+        }
+      ]
+    },
+    "cpwrhwahzyljgxc6jc9gadl3o": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.77"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.28"
+        },
+        {
+          "secenek": "2",
+          "oran": "2.80"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.77"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.28"
+        },
+        {
+          "secenek": "2",
+          "oran": "2.80"
         }
       ]
     },
