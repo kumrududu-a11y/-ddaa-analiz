@@ -1,4 +1,89 @@
 {
   "date": "2026-10-17",
-  "odds": {}
+  "odds": {
+    "cpa8a44mlpbzxvjl8bzbwneok": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.14"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.38"
+        },
+        {
+          "secenek": "2",
+          "oran": "8.25"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.14"
+        },
+        {
+          "secenek": "X",
+          "oran": "4.38"
+        },
+        {
+          "secenek": "2",
+          "oran": "8.25"
+        }
+      ]
+    },
+    "coc42itxw56irq6mzvxku8tn8": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "1.66"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.46"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.15"
+        },
+        {
+          "secenek": "1",
+          "oran": "1.66"
+        },
+        {
+          "secenek": "X",
+          "oran": "3.46"
+        },
+        {
+          "secenek": "2",
+          "oran": "3.15"
+        }
+      ]
+    },
+    "7p429rehb54nysid8ng3rzac4": {
+      "Maç Sonucu MBS 1": [
+        {
+          "secenek": "1",
+          "oran": "5.50"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.08"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.25"
+        },
+        {
+          "secenek": "1",
+          "oran": "5.50"
+        },
+        {
+          "secenek": "X",
+          "oran": "5.08"
+        },
+        {
+          "secenek": "2",
+          "oran": "1.25"
+        }
+      ]
+    }
+  }
 }
