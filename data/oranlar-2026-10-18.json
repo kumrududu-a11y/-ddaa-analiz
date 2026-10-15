@@ -1,33 +1,4 @@
 {
   "date": "2026-10-18",
-  "odds": {
-    "7dew37b9l7q6xwitsh2jym978": {
-      "Maç Sonucu MBS 1": [
-        {
-          "secenek": "1",
-          "oran": "1.48"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.47"
-        },
-        {
-          "secenek": "2",
-          "oran": "4.66"
-        },
-        {
-          "secenek": "1",
-          "oran": "1.48"
-        },
-        {
-          "secenek": "X",
-          "oran": "3.47"
-        },
-        {
-          "secenek": "2",
-          "oran": "4.66"
-        }
-      ]
-    }
-  }
+  "odds": {}
 }
